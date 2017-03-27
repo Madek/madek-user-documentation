@@ -1,0 +1,4 @@
+site_name: Madek User Dokumentation
+docs_dir: source
+site_dir: build
+theme: readthedocs
