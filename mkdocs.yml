@@ -1,4 +1,35 @@
 site_name: Madek User Dokumentation
 docs_dir: source
 site_dir: build
-theme: readthedocs
+theme_dir: theme_dir
+extra_css: [styles.css]
+pages:
+- Software Madek:
+    - Was ist Madek?: 'index.md'
+    - Grundkonzepte der Software: 'software/concepts.md'
+    - Benutzeroberfläche: 'software/interfaces.md'
+    - Arbeiten mit Medieneinträgen: 'software/mediaentries.md'
+    - Ordnen & Vernetzen: 'software/organize.md'
+    - Erkunden & Suchen: 'software/search.md'
+    - FAQ: 'software/faq.md'
+    - Glossar: 'software/glossary.md'
+    - Madek-Player: 'software/player.md'
+    - Madek-API: 'software/api.md'
+    - Roadmap: 'software/roadmap.md'
+- Medienarchiv der Künste (ZHdK): 
+    - Vertiefungsarchive: 'instance/zhdk/specializationarchives.md'
+    - Leitfaden für die Eingabe von Abschlussarbeiten: 'instance/zhdk/complementaryworks.md'
+    - Projektschaufenster auf der Website der ZHdK: 'instance/zhdk/projectswebsite.md'
+    - Ablieferung ans Archiv: 'instance/zhdk/archive.md'
+    - Bilder offline vorbereiten: 'instance/zhdk/prepare.md'
+    - Fachvokabulare: 'instance/zhdk/vocabulary.md'
+    - Logins für Externe: 'instance/zhdk/externallogins.md'
+    - Hyperaura: 'instance/zhdk/hyperaura.md'
+    - Persönliches Portfolio: 'instance/zhdk/personalportfolio.md'
+    - Darstellende Künste / Performancekunst: 'instance/zhdk/performingarts.md'
+    - Musikaufführungen: 'instance/zhdk/musicperformances.md'
+    - Nutzungsbedingungen: 'instance/zhdk/usageterms.md'
+markdown_extensions:
+    - smarty
+    - toc:
+        permalink: True
