@@ -5,7 +5,7 @@ theme: readthedocs
 extra_css: [styles.css]
 pages:
 - Home: 'index.md'
-- Software Madek:
+- Die Software Madek:
     - Was ist Madek?: 'software/01-madek.md'
     - Grundkonzepte der Software: 'software/02-concepts.md'
     - Benutzeroberfläche: 'software/03-interfaces.md'
@@ -14,9 +14,9 @@ pages:
     - Erkunden & Suchen: 'software/06-search.md'
     - FAQ: 'software/07-faq.md'
     - Glossar: 'software/08-glossary.md'
-    - Madek-Player: 'software/09-player.md'
-    - Madek-API: 'software/10-api.md'
-    - Roadmap: 'software/11-roadmap.md'
+    # - Madek-Player: 'software/09-player.md'
+    # - Madek-API: 'software/10-api.md'
+    # - Roadmap: 'software/11-roadmap.md'
 - Medienarchiv der Künste (ZHdK): 
     - Vertiefungsarchive: 'instance/zhdk/01-specializationarchives.md'
     - Leitfaden für die Eingabe von Abschlussarbeiten: 'instance/zhdk/02-complementaryworks.md'
