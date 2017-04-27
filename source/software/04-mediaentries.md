@@ -45,7 +45,7 @@ Alle anderen Dateien werden von Madek pauschal als Dokumente betrachtet. Allerdi
 
 Um Medien in Madek importieren zu können, muss man als Nutzer/in angemeldet sein. Zur Import-Seite gelangt man entweder von *Mein Archiv* über die Schaltfläche *Medien importieren* oder von jeder Seite aus über die gleichnamige Option im Nutzer/innen-Menü oben rechts.
 
-![Medien importieren](images/mediaentries-import.jpg "Medien importieren")
+[![Medien importieren](images/mediaentries-import.jpg "Medien importieren")](images/mediaentries-import.png)
 
 Auf der Import-Seite können Dateien wahlweise über die Schaltfläche *Medien auswählen* und den anschliessenden Auswahldialog des Browsers oder mittels über Drag & Drop in die hellgraue Fläche importiert werden. Die Anzahl der Dateien ist dabei nicht beschränkt und sie können auch in mehreren Schritten in das Browser-Fenster gezogen werden. Unter jeder Datei wird der Ladefortschritt angezeigt. Der einzelne Ladevorgang ist beendet, wenn stattdessen der Dateiname erscheint und bei Bilddateien das Bild selbst angezeigt wird. Der Gesamtvorgang ist abgeschlossen, wenn die Schaltfläche *Gehe zu Entwürfen* aktiv bzw. grün wird. Über diese Schaltfläche gelangen Sie zur Seite *Meine Entwürfe*.
 
@@ -61,11 +61,11 @@ Die Anordnung der Eingabefelder ist für den Editiermodus optimiert und in versc
 
 Sobald es sich bei einem Medieneintrag nicht mehr um einen Entwurf handelt, können Zugriffsberechtigungen für ihn vergeben werden. Zugriffsberechtigungen regeln, wer Inhalte sehen, bearbeiten und herunterladen darf. Sie können für einzelne Personen, Gruppen, sogenannte API-Applikationen und die Öffentlichkeit festgelegt werden. Wie öffentlich Medieneinträge und Sets sind, erkennt man auf Übersichtsseiten schnell an den entsprechenden Symbolen oben links: die Einzelperson steht für private Inhalte, mehrere Personen zeigen an, dass andere Nutzer/innen etwas zumindest sehen können und die Weltkugel markiert Inhalte, die öffentlich im Internet sichtbar sind.
 
-![Private, geteilte und öffentliche Medieneinträge](images/mediaentries-icons.jpg "Private, geteilte und öffentliche Medieneinträge")
+[![Private, geteilte und öffentliche Medieneinträge](images/mediaentries-icons.jpg "Private, geteilte und öffentliche Medieneinträge")](images/mediaentries-icons.png)
 
 Detaillierte Informationen finden Sie in der Einzelansicht unter dem Reiter *Berechtigungen*, wo diese auch bearbeitet werden können. Unterschieden wird dabei neben den Ebenen Personen, Gruppen, API-Applikationen und Öffentlichkeit auch zwischen den Berechtigungen zum "Betrachten", "Original exportieren & in PDF blättern", "Metadaten editieren" sowie "Zugriffsberechtigungen ändern", wobei nicht alle Berechtigungen auf allen Ebenen verfügbar sind. Unabhängig davon gibt es immer eine Person, die die Verantwortlichkeit für einen Medieneintrag hat und diesen damit auch löschen kann. Die Verantwortlichkeit kann hier ebenfalls übertragen werden.
 
-![Zugriffsberechtigungen bearbeiten](images/mediaentries-permissions.jpg "Zugriffsberechtigungen bearbeiten")
+[![Zugriffsberechtigungen bearbeiten](images/mediaentries-permissions.jpg "Zugriffsberechtigungen bearbeiten")](images/mediaentries-permissions.png)
 
 ### Exportieren
 

@@ -2,7 +2,7 @@
 
 In der Eingangshalle des Toni-Areals stehen medial bespielbare Panels, die sogenannte Hyperaura. Alle Mitglieder der ZHdK können Bilder und Videos via Medienarchiv an die Hyperaura senden. Die Hyperaura besteht aus vier aneinandergefügten Panels; von diesen können die drei aufeinanderfolgenden auf der linken Seite angesteuert werden. Damit Sie ihre Inhalte auf der Hyperaura darstellen können, beachten Sie bitte folgende Punkte.
 
-![Hyperaura](images/hyperaura.jpg "Hyperaura")
+[![Hyperaura](images/hyperaura.jpg "Hyperaura")](images/hyperaura.png)
 
 ### Formate
 
@@ -32,7 +32,7 @@ Damit Inhalte auf der Hyperaura angezeigt werden, müssen sie im Medienarchiv hi
 * Geben Sie die Zugriffsberechtigungen für die Api-Applikation *hyperaura* frei ("Original exportieren") sowie für die Gruppen *Redaktion Hyperaura* und *Support Medienarchiv der Künste (Madek)*. Die Öffentlichkeit erhält die Berechtigung "Betrachten".
 * Fügen Sie die Datei zum Set [*Inhalte Hyperaura*](https://medienarchiv.zhdk.ch/sets/inhalte_hyperaura) hinzu.
 
-![Zugriffsberechtigungen](images/hyperaura-permissions.jpg "Zugriffsberechtigungen")
+[![Zugriffsberechtigungen](images/hyperaura-permissions.jpg "Zugriffsberechtigungen")](images/hyperaura-permissions.png)
 
 ### Modalitäten beim Abspielen
 

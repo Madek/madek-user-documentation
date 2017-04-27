@@ -36,15 +36,15 @@ Existiert das Studienprojekt bereits im Medienarchiv? Dann gehen Sie wie folgt v
 [Weitere Informationen zur Stapelverarbeitung](/software/05-organize#stapelverarbeitung)
 5. Wählen Sie alle Medieneinträge, die zum Projekt gehören, unter *Meine Medieneinträge* aus und fügen Sie diese zum vorher angelegten Set hinzu.
 6. Setzen Sie ein Titelbild für das Set. Das Titelbild wird dann auf der ZHdK-Webseite in der Projektvorschau als Teaserbild verwendet. Definieren Sie das Headerbild für die Website, indem Sie einen Inhalt im Set hervorheben. Die entsprechenden Schaltflächen finden Sien oben rechts unter dem Nutzer/innen-Menü.  
-![Titel- und Teaserbild setzen](images/projectswebsite-setoptions.jpg "Titel- und Teaserbild setzen")  
+[![Titel- und Teaserbild setzen](images/projectswebsite-setoptions.jpg "Titel- und Teaserbild setzen")](images/projectswebsite-setoptions.png)  
 [Weitere Informationen zur Set-Gestaltung](/software/05-organize#darstellungsoptionen-von-sets)
 7. Schalten Sie das Set und die dazugehörigen Medieneinträge für die Redaktion der ZHdK-Website, den Support Medienarchiv, die API-Applikation *websitezhdk* und die Öffentlichkeit frei wie in den unten stehenden Bildschirmfotos dargestellt.  
 [Weitere Informationen zur Bearbeitung von Zugriffsberechtigungen](/software/04-mediaentries#zugriffsberechtigungen-bearbeiten)  
 8. Die auf der Website präsentierten Projekte werden im Medienarchiv in einem speziellen Set ["Projektschaufenster Website ZHdK"](https://medienarchiv.zhdk.ch/sets/4015e1d2-db38-4f7e-8118-b54ab416a6c5) gesammelt. Fügen Sie Ihr Projektset also als letzten Schritt diesem Sammelset hinzu.
 
-![Zugriffsberechtigungen für Sets](images/projectswebsite-setpermissions.jpg "Zugriffsberechtigungen für Sets")
+[![Zugriffsberechtigungen für Sets](images/projectswebsite-setpermissions.jpg "Zugriffsberechtigungen für Sets")](images/projectswebsite-setpermissions.png)
 
-![Zugriffsberechtigungen für Medieneinträge](images/projectswebsite-mediapermissions.jpg "Zugriffsberechtigungen für Medieneinträge")
+[![Zugriffsberechtigungen für Medieneinträge](images/projectswebsite-mediapermissions.jpg "Zugriffsberechtigungen für Medieneinträge")](images/projectswebsite-mediapermissions.png)
 
 #### Kontakt
 

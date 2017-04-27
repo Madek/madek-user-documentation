@@ -2,7 +2,7 @@
 
 Madek bietet mehrere Möglichkeiten, um Inhalte zu finden. Die einfachste ist die Volltextsuche, die Sie über den entrsprechenden Reiter oben mittig erreichen. Die Suchergebnisse können in unterschiedlichen Darstellungsformen (Raster, Kacheln, Liste, Miniaturen) angeschaut werden.
 
-![Filterleiste](images/interfaces-filters.jpg "Filterleiste")
+[![Filterleiste](images/interfaces-filters.jpg "Filterleiste")](images/interfaces-filters.png)
 
 ### Filtern
 

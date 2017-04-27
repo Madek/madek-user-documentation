@@ -10,7 +10,7 @@ Auf Übersichtsseiten mit mehreren Medieneinträgen (z.B. *Meine Medieneinträge
 
 Die Auswahl von Inhalten auf Übersichtsseiten kann wahlweise einzeln oder pauschal erfolgen. Um alle sichtbare Medieneinträge oder Sets auszuwählen, gibt es oben rechts die Schaltfläche *Alle auswählen*. Alternativ kann man mit dem Mauszeiger über die Thumbnails einzelner Inhalte fahren und die dann erscheinende Checkbox unten links anwählen. Ausgewählte Inhalte erhalten in beiden Fällen eine hellblaue Markierung.
 
-![Auswahl von Medieneinträgen](images/organize-batch-select.jpg "Auswahl von Medieneinträgen")
+[![Auswahl von Medieneinträgen](images/organize-batch-select.jpg "Auswahl von Medieneinträgen")](images/organize-batch-select.png)
 
 #### Stapelfunktion wählen
 
@@ -18,13 +18,13 @@ Die verschiedenen Möglichkeiten, um alle ausgewählten Inhalte zu bearbeiten, f
 
 <!-- Fragen: Warum heisst es hier Stapelverarbeitung und nicht Zwischenablage? Warum fehlt die Funktion im User-Menü? -->
 
-![Stapelfunktion wählen](images/organize-batch-action.jpg "Stapelfunktion wählen")
+[![Stapelfunktion wählen](images/organize-batch-action.jpg "Stapelfunktion wählen")](images/organize-batch-action.png)
 
 #### Metadaten bearbeiten
 
 Bei der Berarbeitung der Metadaten mehrer Medieneinträge oder Sets kann es vorkommen, dass es bereits unterschiedliche Angaben für ein Eingabefeld gibt. Dies tritt beispielsweise auf, wenn Bilder zuvor mit individuellen Titeln versehen wurden und anschliessend für alle der/dieselbe Rechteinhaber/in ergänzt werden soll. Felder mit unterschiedlichen Angaben sind werden gelb markiert während bei Feldern ohne Markierung die Angaben überall identisch sind. In jedem Fall werden bei bearbeiteten Felder alle bisherigen Angaben überschrieben, während bei Feldern, die nicht bearbeitet werden, die Angaben erhalten bleiben. Im oben skizzierten Fall würde man entsprechend nur den/die Rechteinhaber/in angeben und die individuellen Titel würden erhalten bleiben.
 
-![Metadaten bearbeiten](images/organize-batch-form.jpg "Metadaten bearbeiten")
+[![Metadaten bearbeiten](images/organize-batch-form.jpg "Metadaten bearbeiten")](images/organize-batch-form.png)
 
 Um unterschiedliche Werte bei allen ausgewählten Inhalten zu löschen, muss zunächst ein temporärer Wert (z.B. das Zeichen "-") angeben und gespeichert werden. In einem zweiten Schritt kann dieser Wert wieder für alle Inhalte gelöscht werden. Liegen bereits einheitlichen Angaben vor, entfällt zum Löschen der erste Schritt und die Werte können direkt entfernt werden.
 
@@ -40,9 +40,9 @@ Sets verfügen die gleiche Möglichkeit, Zugriffsberechtigungen zu vergeben, und
 
 Wie auf allen Übersichtsseiten gibt es auch bei Sets die Möglichkeit, Inhalte auf unterschiedliche Arten anzuzeigen: als Kacheln, im Raster, als Liste oder als Miniaturen. Bei Sets ist es zusätzlich möglich, Inhalte zu sortieren und die gewählte Ansicht und Sortierung als Standardarstellung für ein Set festzulegen. Über das Aktionsmenü gibt es die Möglichkeit, das Titelbild eines Sets festzulegen. Bei Sets mit vielen Inhalten kann es sinnvoll sein, einzelne Inhalte hervorzuheben. Dies beschiet ebenfalls über das Aktionsmenü. Hervorgehobene Inhalte werden dann in einem zusätzlichen Bereich zwischen den allgemeinen Angaben zum Set und der Anzeige aller Inhalte angezeigt.
 
-![Darstellungsoptionen von Sets](images/organize-sets-display.jpg "Darstellungsoptionen von Sets")
+[![Darstellungsoptionen von Sets](images/organize-sets-display.jpg "Darstellungsoptionen von Sets")](images/organize-sets-display.png)
 
-![Darstellungsoptionen von Sets](images/organize-sets-highlights.jpg "Darstellungsoptionen von Sets")
+[![Darstellungsoptionen von Sets](images/organize-sets-highlights.jpg "Darstellungsoptionen von Sets")](images/organize-sets-highlights.png)
 
 ### Adressen verwalten
 
@@ -56,6 +56,6 @@ Medieneinträge und Sets, mit denen man regelmässig arbeitet, können über die
 
 Die Berechtigung, Inhalte zu sehen und auch zu bearbeiten, können Einzelpersonen und Gruppen gegeben werden. Für das kollaborative Arbeiten stellen Arbeitsgruppen eine wesentliche Erleichterung dar, weil einerseits nicht in jedem Fall alle Nutzer/innen, die Zugriffsberechtigungen erhalten sollen, einzeln angegeben werden müssen und weil bei der veränderten Zusammensetzung einer Arbeitsgruppe Zugriffsberechtigungen nicht neu gesetzt werden müssen.
 
-![Arbeitsgruppen](images/organize-groups.jpg "Arbeitsgruppen")
+[![Arbeitsgruppen](images/organize-groups.jpg "Arbeitsgruppen")](images/organize-groups.png)
 
 Arbeitsgruppen können von allen Nutzer/innen auf der Seite *Meine Arbeitsgruppen* (in *Mein Archiv* bzw. im User-Menü) angelegt werden. Fügen sie andere Nutzer/innen hinzu oder löschen sie diese. Grundsätzlich habe alle Mitglieder einer Arbeitsgruppe die Möglichkeit andere Nutzer/innen hinzuzufügen oder zu entfernen.

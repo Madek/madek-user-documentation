@@ -2,7 +2,7 @@
 
 Im Medienarchiv können die Aufnahmen von musikalischen Veranstaltungen der ZHdK oder andere Musikdateien archiviert und berechtigten Personen zugänglich gemacht werden. Der Musik können noch Informationsmaterial, Flyer, Bilder beigefügt werden.
 
-![Archivieren von Musikaufführungen](images/musicperformances1.jpg "Archivieren von Musikaufführungen")
+[![Archivieren von Musikaufführungen](images/musicperformances1.jpg "Archivieren von Musikaufführungen")](images/musicperformances1.png)
 
 ### Medienmaterial vorbereiten und importieren
 
@@ -48,7 +48,7 @@ Metadaten sollten sowohl für das Set als auf die enthaltenen Medieneinträge an
 * Projekttitel: Konzertserie (z.B. Spektrum Konzerte)
 * Dozierende: Klasse oder Dozierende als Mitwirkende
 
-![Metadaten](images/musicperformances3.jpg "Metadaten")
+[![Metadaten](images/musicperformances3.jpg "Metadaten")](images/musicperformances3.png)
 
 ### Titelbild für das Set anlegen
 
@@ -58,7 +58,7 @@ Im Aktionsmenü oben rechts haben Sie die Möglichkeit, für das Set ein Titelbi
 
 ### Berechtigungen für Medieneinträge und Sets vergeben
 
-![Berechtigungen](images/musicperformances2.jpg "Berechtigungen")
+[![Berechtigungen](images/musicperformances2.jpg "Berechtigungen")](images/musicperformances2.png)
 
 Damit die Musikaufführungen innerhalb der ZHdK zu hören sind, weisen Sie dem Set und den Medieneinträgen die entsprechenden [Zugriffsberechtigungen](/software/04-mediaentries#zugriffsberechtigungen-bearbeiten) zu. Schalten Sie dabei für die Archivierung die Medieneinträge für das *Archiv ZHdK* und für den *Support Medienarchiv der Künste (Madek)* frei.
 

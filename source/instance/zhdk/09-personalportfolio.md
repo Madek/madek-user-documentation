@@ -6,7 +6,7 @@ Während des Studiums entstehen verschiedene Arbeiten. Im Medienarchiv können Z
 
 Um ein persönliches Portfolio zu erstellen sind bestimmte Funktionen des Medienarchivs besonders geeignet: Beispielsweise können Sie ihre bereits vorhandene Medieneinträge in Sets gruppieren und auf diese Weise dem Portfolio beifügen. Durch Zugriffsberechtigungen können Sie entscheiden, welche ihrer Inhalte im Rahmen des Portfolios öffentlich sichtbar sind -- und welche Sie nur für sich selbst nutzen wollen. Icons wie die Weltkugel oder das Gruppensymbol machen die Zugriffsberechtigungen sichtbar. Sowohl ihre Inhalte wie auch die Zugriffsberechtigungen können Sie jederzeit anpassen. Bezüglich der Darstellung des Portfolios bietet das Medienarchiv verschiedene Optionen an. Sie können das Titelbild festlegen, attraktive Inhalte hervorheben und die Darstellung der Medien bestimmen. Es lohnt sich insbesondere für ein Portfolio eine sprechende Adresse zu vergeben.
 
-![Portfolio-Beispiel](images/portfolio.jpg "Portfolio-Beispiel")
+[![Portfolio-Beispiel](images/portfolio.jpg "Portfolio-Beispiel")](images/portfolio.png)
 
 ### Beispiel für ein Portfolio
 

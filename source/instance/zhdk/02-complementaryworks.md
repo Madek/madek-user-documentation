@@ -76,7 +76,7 @@ Sowohl für die rasche Auffindbarkeit als auch für die spätere Langzeitarchivi
 
 Für alle Abschlussarbeiten gilt, dass diese im Medienarchiv zumindest in einer kleinen Auflösung öffentlich sichtbar sein sollen. Hierfür müssen entsprechende Zugriffsberechtigungen eingestellt werden. Beachten Sie bitte, dass dieser Zugriff sowohl für das Set wie auch die darin enthaltenen Medieneinträge eingestellt werden muss.
 
-![Beispiel für Zugriffsberechtigungen](images/complementary-permissions.jpg "Beispiel für Zugriffsberechtigungen")
+[![Beispiel für Zugriffsberechtigungen](images/complementary-permissions.jpg "Beispiel für Zugriffsberechtigungen")](images/complementary-permissions.png)
 
 In diesem Beispiel hat ein Student der Vertiefung Fotografie Dozierenden und Mitarbeitenden seiner eigenen Vertiefung, dem Archiv ZHdK und dem Support des Medienarchivs umfassende Berechtigungen gegeben, die einen Zugriff auf die Originaldateien und die Möglichkeit, Metadaten zu editieren, umfassen.
 

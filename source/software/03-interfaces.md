@@ -4,7 +4,7 @@
 
 Die zentrale Seite für angemeldete Nutzer/innen ist *Mein Archiv*. Hier erhält man einen Überblick sowohl über eigene Inhalte als auch solche, die andere Nutzer/innen mit einem geteilt haben.
 
-![Mein Archiv](images/interfaces-my.jpg "Mein Archiv")
+[![Mein Archiv](images/interfaces-my.jpg "Mein Archiv")](images/interfaces-my.png)
 
 * *Aktivitäten* zeigt die letzten Arbeitschritte und bietet durch die Verlinkung auch einen direkten Zugriff auf die jeweiligen Inhalte.
 * *Meine Entwürfe* sind Medieneinträge, die noch nicht über Angaben in allen Pflichtfelder verfügen. Ihre Nutzung ist daher auf den/die jeweilige/n Nutzer/innen beschränkt.
@@ -18,7 +18,7 @@ Die zentrale Seite für angemeldete Nutzer/innen ist *Mein Archiv*. Hier erhält
 
 ### Nutzer/innen-Menü
 
-![Nutzer/innen-Menü](images/interfaces-user-menu.jpg "Nutzer/innen-Menü")
+[![Nutzer/innen-Menü](images/interfaces-user-menu.jpg "Nutzer/innen-Menü")](images/interfaces-user-menu.png)
 
 Das Nutzer/innen-Menü oben links ermöglicht einen schnellen Zugriff auf die meisten Unterseiten von *Mein Archiv* von jeder Seite aus. Dazu kommen der Menüpunkt *Medien importieren* und die Möglichkeit zum *Abmelden*.
 
@@ -26,18 +26,18 @@ Das Nutzer/innen-Menü oben links ermöglicht einen schnellen Zugriff auf die me
 
 Bei der Ansicht einzelner Medieneinträge und Sets steht oben rechts unterhalt des Nutzer/innen-Menü das Aktionsmenü mit mehreren Schaltflächen zur Verfügung. Die Zusammensetzung des Aktionsmenüs variert abhängig davon, welche Inhalte man betrachtet und welche Zugriffsberechtigungen man für diese hat.
 
-![Aktionsmenü](images/interfaces-actionsmenu.jpg "Aktionsmenü")
+[![Aktionsmenü](images/interfaces-actionsmenu.jpg "Aktionsmenü")](images/interfaces-actionsmenu.png)
 
 Insgesamt gibt es folgende Funktionen: *Editieren*, *Löschen*, *zu Favoriten hinzufügen* bzw. davon *entfernen*, *zu Sets hinzufügen* bzw. aus ihnen *entfernen* und *Exportieren*. Sets verfügen ausserdem über die Funktionen *Titelbild festlegen* und *Inhalte hervorheben*.
 
 ### Aktionsleiste
 
-![Aktionsleiste](images/interfaces-actionsbar.jpg "Aktionsleiste")
+[![Aktionsleiste](images/interfaces-actionsbar.jpg "Aktionsleiste")](images/interfaces-actionsbar.png)
 
 Die Aktionsleiste bietet auf verschiedenen Übersichtsseiten die Möglichkeit, die Darstellung der Inhalte anzupassen und ausgewählte Inhalte mittels Stapelverarbeitung zu bearbeiten.
 
 ### Filterleiste
 
-![Filterleiste](images/interfaces-filters.jpg "Filterleiste")
+[![Filterleiste](images/interfaces-filters.jpg "Filterleiste")](images/interfaces-filters.png)
 
 Die Filterleiste steht auf verschiedenen Seiten links neben einer Auswahl von Inhalten zur Verfügung. Sie erlaubt das Eingrenzen der angezeigten Inhalte über Suchbegriffe sowie das Filtern anhand von Metadaten wie Schlagworten und Angaben zum Medien- oder Dokumenttyp. Dabei sind sowohl verschiedene Felder also auch unterschiedliche Angaben zu einem Feld verknüpfbar wie zum Beispiel eine Suche nach Videos einer konkreten Autorin, die mit mehreren bestimmten Schlagworten versehen wurden. Angezeigt werden jeweils nur Optionen, die aufgrund der bereits getroffenen Filterregeln sinnvoll sind. So werden bei einer Filterung von Videos nur noch Autorinnen und Autoren angezeigt, von denen Videos vorhanden sind.
