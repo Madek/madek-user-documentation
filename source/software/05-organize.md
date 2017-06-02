@@ -22,7 +22,7 @@ Die verschiedenen Möglichkeiten, um alle ausgewählten Inhalte zu bearbeiten, f
 
 #### Metadaten bearbeiten
 
-Bei der Berarbeitung der Metadaten mehrer Medieneinträge oder Sets kann es vorkommen, dass es bereits unterschiedliche Angaben für ein Eingabefeld gibt. Dies tritt beispielsweise auf, wenn Bilder zuvor mit individuellen Titeln versehen wurden und anschliessend für alle der/dieselbe Rechteinhaber/in ergänzt werden soll. Felder mit unterschiedlichen Angaben sind werden gelb markiert während bei Feldern ohne Markierung die Angaben überall identisch sind. In jedem Fall werden bei bearbeiteten Felder alle bisherigen Angaben überschrieben, während bei Feldern, die nicht bearbeitet werden, die Angaben erhalten bleiben. Im oben skizzierten Fall würde man entsprechend nur den/die Rechteinhaber/in angeben und die individuellen Titel würden erhalten bleiben.
+Bei der Bearbeitung der Metadaten mehrerer Medieneinträge oder Sets kann es vorkommen, dass es bereits unterschiedliche Angaben für ein Eingabefeld gibt. Dies tritt beispielsweise auf, wenn Bilder zuvor mit individuellen Titeln versehen wurden und anschliessend für alle der/dieselbe Rechteinhaber/in ergänzt werden soll. Felder mit unterschiedlichen Angaben sind werden gelb markiert während bei Feldern ohne Markierung die Angaben überall identisch sind. In jedem Fall werden bei bearbeiteten Felder alle bisherigen Angaben überschrieben, während bei Feldern, die nicht bearbeitet werden, die Angaben erhalten bleiben. Im oben skizzierten Fall würde man entsprechend nur den/die Rechteinhaber/in angeben und die individuellen Titel würden erhalten bleiben.
 
 [![Metadaten bearbeiten](images/organize-batch-form.jpg "Metadaten bearbeiten")](images/organize-batch-form.png)
 
