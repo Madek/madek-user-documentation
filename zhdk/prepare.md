@@ -16,7 +16,7 @@ Da der Standard IPTC/XMPcore aus dem Kontext der Pressefotografie kommt, werden 
 
 * *Erstellungsdatum*: Das Datum, an dem das abbildende Medium (z.B. die Fotografie oder die Audio-Aufnahme) entstanden ist. Die Datierung und das Erstelldatum können verschieden sein.
 
-[![Beispiel](images/prepare-example.jpg "Beispiel")](images/prepare-example.png)
+[![Beispiel](/assets/prepare-example.jpg "Beispiel")](/assets/prepare-example.png)
 
 Dieses Bildschirmfoto zeigt als Beispiel einen Medieneintrag, der sich auf eine künstlerische Aktion bezieht, die vom 28.04.2006 - 05.05.2006 (Datierung) stattgefunden hat. Der auf der Fotografie abgebildete Vortrag wurde am 27.04.06 (Erstellungsdatum) auf der Vernissage gehalten. Die Künstler/innen sind Roman Keller und Christina Hemauer (Autor/in). Die Fotografie wurde gemacht von Regula Bearth (Medienersteller/in).  
 <https://medienarchiv.zhdk.ch/entries/f9725c56-6bbd-4cb8-959f-1082b811d456>

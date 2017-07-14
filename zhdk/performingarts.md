@@ -12,7 +12,7 @@ Unterschiedliche künstlerische Praktiken und Arbeiten erfordern unterschiedlich
 
 Eine Aufführung kann nicht umfänglich durch einzelne Bilder, Videos oder Tonaufnahmen repräsentiert werden. Eine Kombination verschiedener Medien befördert hingegen die Überlieferung. Neben den herkömmlichen Aufzeichnungsmedien wie Videos und Fotos können z.B. Augenzeugenberichte oder Rezensionen, aber auch Dokumente aus der Entwicklungs- und Konzeptionsphase eine weitere Sicht erschliessen.
 
-[![Vielfalt der Medien](images/performingarts1.jpg "Vielfalt der Medien")](images/performingarts1.png)
+[![Vielfalt der Medien](/assets/performingarts1.jpg "Vielfalt der Medien")](/assets/performingarts1.png)
 
 <https://medienarchiv.zhdk.ch/sets/8088f581-bf52-42e8-82e4-4bfd317fbeae>
 
@@ -24,7 +24,7 @@ Dokumentationen ermöglichen lediglich eine Annäherung an eine vergangene Auff�
 
 Sind mehrere Personen an der Dokumentation beteiligt, entstehen zwangsweise verschiedene Sichtweisen auf eine Aufführung. Zum einen ergänzen sich diese gegenseitig und tragen zu einer polyphonen Überlieferung bei. Zum anderen bedürfen sie einer Gewichtung aus der Sicht der Künstler/innen oder Nutzer/innen. Je nach Rezeptionskontext und Bewertung können diese Artefakte auch eigenständigen Werkcharakter erlangen.
 
-[![Verschiedene Sichtweisen](images/performingarts2.jpg "Verschiedene Sichtweisen")](images/performingarts2.png)
+[![Verschiedene Sichtweisen](/assets/performingarts2.jpg "Verschiedene Sichtweisen")](/assets/performingarts2.png)
 
 <https://medienarchiv.zhdk.ch/sets/fbeb387f-3e1d-4114-82dc-fcaa2a421ced>
 
@@ -32,7 +32,7 @@ Sind mehrere Personen an der Dokumentation beteiligt, entstehen zwangsweise vers
 
 Die Produktionsumstände und Autor/innen von Dokumentationen sollten offengelegt werden. Dies einerseits, um die Urheberschaft der jeweiligen Quelle zu benennen und damit anzuerkennen. Andererseits bestehen zwischen explizit beauftragten Dokumentationen und zufälligen, seitens des Publikums erzeugten Aufzeichnungen ein Unterschied, den es in der Rezeption und Analyse zu berücksichtigen gilt. Darüber hinaus gilt es zu unterscheiden zwischen bewertetem und unbewertetem Material. So mag eine geschnittene und kommentierte Videodokumentation ihren Schwerpunkt auf bestimmte Aspekte einer Performance legen und andere vernachlässigen. Hingegen können ungeschnittene Aufzeichnungen ein umfassenderes Bild ergeben und sind für die Künstler/innen und insbesondere für Forschungszwecke besser geeignet.
 
-[![Offenlegung der Quellen](images/performingarts3.jpg "Offenlegung der Quellen")](images/performingarts3.png)
+[![Offenlegung der Quellen](/assets/performingarts3.jpg "Offenlegung der Quellen")](/assets/performingarts3.png)
 
 <https://medienarchiv.zhdk.ch/entries/7bdbc1f8-8d97-45ec-b5f1-74a7b1100ef4>
 
@@ -40,7 +40,7 @@ Die Produktionsumstände und Autor/innen von Dokumentationen sollten offengelegt
 
 Eine konzise inhaltliche Erschliessung erleichtert den Umgang mit Dokumenten in Datenbanken. So wurden für die Medieneinträge des Forschungsprojekts sowohl verschiedene Performance-Genres als auch unterschiedliche Artefakt-Typen für die Beschlagwortung entwickelt. Diese Kategorien beziehen sich explizit auf Performancekunst, andere künstlerische Formen verlangen jeweils nach unterschiedlichen spezifischen Vokabularien.
 
-[![Inhaltliche Erschliessung in Datenbanken](images/performingarts4.jpg "Inhaltliche Erschliessung in Datenbanken")](images/performingarts4.png)
+[![Inhaltliche Erschliessung in Datenbanken](/assets/performingarts4.jpg "Inhaltliche Erschliessung in Datenbanken")](/assets/performingarts4.png)
 
 Für eine vertiefte Beschäftigung mit diesen Fragen verweisen wir auf die Empfehlungen des Forschungsteams *archiv performativ*:
 

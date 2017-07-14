@@ -17,11 +17,11 @@ Sobald nicht bereits geschehen, bündeln Sie Ihre Ablieferungen in projektspezif
 
 Vergeben Sie Zugriffsberechtigungen für Gruppen und Öffentlichkeit entsprechend der Policy ihrer Abteilung bzw. Studienvertiefung. Grundsätzlich sollen Abschlussarbeiten sowohl für die ZHdK als auch für die Öffentlichkeit freigeschaltet werden. Einzelne Abteilungen schalten jedoch nur die besten Abschlussarbeiten für die Öffentlichkeit frei. Auch Theoriearbeiten oder Konzepte für künstlerische Arbeiten können restriktivere Zugriffsberechtigungen haben.
 
-[![Zugriffsberechtigungen](images/archive-permissions.jpg "Zugriffsberechtigungen")](images/archive-permissions.png)
+[![Zugriffsberechtigungen](/assets/archive-permissions.jpg "Zugriffsberechtigungen")](/assets/archive-permissions.png)
 
 Tragen Sie für Sets und Medieneinträge bei den Zugriffsberechtigungen das *Archiv ZHdK (REK_MIZ_Archiv.alle)* und den *Support Medienarchiv der Künste (Madek)* mit allen Rechten ein.
 
-[![Verantwwortliche Person](images/archive-responsible.jpg "Verantwwortliche Person")](images/archive-responsible.png)
+[![Verantwwortliche Person](/assets/archive-responsible.jpg "Verantwwortliche Person")](/assets/archive-responsible.png)
 
 Tragen Sie auf der selben Seite Rolf Wolfensberger mittels der Funktion *Verantwortlichkeit übertragen* als verantwortliche Person ein.
 

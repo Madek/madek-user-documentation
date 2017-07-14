@@ -6,7 +6,7 @@ Während des Studiums entstehen verschiedene Arbeiten. Im Medienarchiv können Z
 
 Um ein persönliches Portfolio zu erstellen sind bestimmte Funktionen des Medienarchivs besonders geeignet: Beispielsweise können Sie ihre bereits vorhandene Medieneinträge in Sets gruppieren und auf diese Weise dem Portfolio beifügen. Durch Zugriffsberechtigungen können Sie entscheiden, welche ihrer Inhalte im Rahmen des Portfolios öffentlich sichtbar sind -- und welche Sie nur für sich selbst nutzen wollen. Icons wie die Weltkugel oder das Gruppensymbol machen die Zugriffsberechtigungen sichtbar. Sowohl ihre Inhalte wie auch die Zugriffsberechtigungen können Sie jederzeit anpassen. Bezüglich der Darstellung des Portfolios bietet das Medienarchiv verschiedene Optionen an. Sie können das Titelbild festlegen, attraktive Inhalte hervorheben und die Darstellung der Medien bestimmen. Es lohnt sich insbesondere für ein Portfolio eine sprechende Adresse zu vergeben.
 
-[![Portfolio-Beispiel](images/portfolio.jpg "Portfolio-Beispiel")](images/portfolio.png)
+[![Portfolio-Beispiel](/assets/portfolio.jpg "Portfolio-Beispiel")](/assets/portfolio.png)
 
 ### Beispiel für ein Portfolio
 
@@ -19,9 +19,9 @@ Lobsang Tashi Sotrug (Alumnus, MA Film) stellt sein Portfolio vor:
 
 Für die Erstellung eines Portfolios wenden Sie folgende Schritte an:
 
-* [Medien importieren](/software/04-mediaentries#medien-importieren)
-* [Metadaten editieren](/software/04-mediaentries#metadaten-editieren)
-* [Medien gruppieren](/software/05-organize#arbeiten-mit-sets)
-* [Zugriffsberechtigungen verwalten](/software/04-mediaentries#zugriffsberechtigungen-bearbeiten)
-* [Set gestalten](/software/05-organize#darstellungsoptionen-von-sets)
-* [Adresse anlegen](/software/05-organize#adressen-verwalten)
+* [Medien importieren](/madek/mediaentries.html#medien-importieren)
+* [Metadaten editieren](/madek/mediaentries.html#metadaten-editieren)
+* [Medien gruppieren](/madek/organize.html#arbeiten-mit-sets)
+* [Zugriffsberechtigungen verwalten](/madek/mediaentries.html#zugriffsberechtigungen-bearbeiten)
+* [Set gestalten](/madek/organize.html#darstellungsoptionen-von-sets)
+* [Adresse anlegen](/madek/organize.html#adressen-verwalten)

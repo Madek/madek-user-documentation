@@ -1,6 +1,0 @@
-ul.wy-breadcrumbs > li:nth-last-child(-n+2) {
-	/*font-weight: bold;*/
-}
-li.toctree-l3, li a.toctree-l4 {
-	/*display: none;*/
-}

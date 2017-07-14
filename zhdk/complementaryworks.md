@@ -27,17 +27,17 @@ Bei der Aufarbeitung von Medien auf dem eigenen Computer können neben der eigen
 
 Insbesondere im Hinblick auf eine spätere Langzeitarchivierung durch das Archiv ZHdK, gilt es die richtigen Dateiformate zu wählen. Standardisierte und freie Formate von möglichst hoher Qualität sind dabei besonders erwünscht.
 
-[Weitere Informationen zu Medientypen & Dateiformaten](/software/04-mediaentries#medientypen-dateiformate)
+[Weitere Informationen zu Medientypen & Dateiformaten](/madek/mediaentries.html#medientypen-dateiformate)
 
 ### Medien importieren und gruppieren
 
-Das Importieren von Medien einer Abschlussarbeit entspricht dem allgemeinen [Medienimport](/software/04-mediaentries#medien-importieren). Es ist sinnvoll Medien eines Projektes zusammen zu importieren und im Anschluss in projektspezifisches [Set](/software/05-organize#arbeiten-mit-sets) zu legen.
+Das Importieren von Medien einer Abschlussarbeit entspricht dem allgemeinen [Medienimport](/madek/mediaentries.html#medien-importieren). Es ist sinnvoll Medien eines Projektes zusammen zu importieren und im Anschluss in projektspezifisches [Set](/madek/organize.html#arbeiten-mit-sets) zu legen.
 
 ### Metadaten
 
-Den Vorgaben bezüglich Metadaten für Abschlussarbeiten auf der Ebene von Sets und einzelner Medieneinträge ist möglichst präzise Folge zu leisten. Nachfolgende Metadaten gilt es für alle Medieneintrag anzugeben. Soweit die Angaben identisch sind, kann dies einfach mittels [Stapelverarbeitung](/software/05-organize#stapelverarbeitung) geschehen.
+Den Vorgaben bezüglich Metadaten für Abschlussarbeiten auf der Ebene von Sets und einzelner Medieneinträge ist möglichst präzise Folge zu leisten. Nachfolgende Metadaten gilt es für alle Medieneintrag anzugeben. Soweit die Angaben identisch sind, kann dies einfach mittels [Stapelverarbeitung](/madek/organize.html#stapelverarbeitung) geschehen.
 
-[Allgemeine Informationen zu Metadaten in Madek](/software/02-concepts#metadaten)
+[Allgemeine Informationen zu Metadaten in Madek](/madek/concepts.html#metadaten)
 
 #### Sinn und Zweck von Metadaten
 
@@ -70,16 +70,16 @@ Sowohl für die rasche Auffindbarkeit als auch für die spätere Langzeitarchivi
 * __Rechteinhaber/in__: In der Regel die "Zürcher Hochschule der Künste" (bitte immer ausschreiben)
 * __Beschreibung durch__: Name der Person, welche die Eingaben im Medienarchiv gemacht hat
 
-[Weitere Informationen zur Eingabe von Metadaten](/software/04-mediaentries/#metadaten-editieren)
+[Weitere Informationen zur Eingabe von Metadaten](/madek/mediaentries.html#metadaten-editieren)
 
 ### Zugriffsberechtigungen
 
 Für alle Abschlussarbeiten gilt, dass diese im Medienarchiv zumindest in einer kleinen Auflösung öffentlich sichtbar sein sollen. Hierfür müssen entsprechende Zugriffsberechtigungen eingestellt werden. Beachten Sie bitte, dass dieser Zugriff sowohl für das Set wie auch die darin enthaltenen Medieneinträge eingestellt werden muss.
 
-[![Beispiel für Zugriffsberechtigungen](images/complementary-permissions.jpg "Beispiel für Zugriffsberechtigungen")](images/complementary-permissions.png)
+[![Beispiel für Zugriffsberechtigungen](/assets/complementary-permissions.jpg "Beispiel für Zugriffsberechtigungen")](/assets/complementary-permissions.png)
 
 In diesem Beispiel hat ein Student der Vertiefung Fotografie Dozierenden und Mitarbeitenden seiner eigenen Vertiefung, dem Archiv ZHdK und dem Support des Medienarchivs umfassende Berechtigungen gegeben, die einen Zugriff auf die Originaldateien und die Möglichkeit, Metadaten zu editieren, umfassen.
 
 Die Öffentlichkeit kann den Medieneintrag sehen, aber lediglich als Vorschau mit geringer Auflösung. Bei PDF-Dateien ist zu beachten, dass diese nur betrachtet werden können, wenn man Zugriff auf das Original hat.
 
-[Weitere Informationen zum Einstellen der Zugriffsberechtigungen](/software/04-mediaentries#zugriffsberechtigungen-bearbeiten)
+[Weitere Informationen zum Einstellen der Zugriffsberechtigungen](/madek/mediaentries.html#zugriffsberechtigungen-bearbeiten)

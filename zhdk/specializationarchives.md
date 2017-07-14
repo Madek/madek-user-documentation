@@ -1,3 +1,5 @@
+# Medienarchiv der Künste, ZHdK
+
 ## Archive von Vertiefungen und Schwerpunkten
 
 Eine Hauptaufgabe des Medienarchivs ist es, die Vertiefungsrichtungen bei der Archivierung ihrer Medien zu unterstützen. Dabei können verschiedene Bedürfnisse abgedeckt werden:
@@ -26,7 +28,7 @@ Telefon: +41 43 446 21 84
 
 ### Überlegen Sie sich eine geeignete Struktur
 
-Das Medienarchiv schreibt keine Strukturen für die Ablage vor, sondern lässt beliebige Verknüpfungen von [Sets](/software/05-organize#arbeiten-mit-sets) zu. Für Archive von Abschlussarbeiten hat sich dabei eine vierstufige Ordnung bewährt:
+Das Medienarchiv schreibt keine Strukturen für die Ablage vor, sondern lässt beliebige Verknüpfungen von [Sets](/madek/organize.html#arbeiten-mit-sets) zu. Für Archive von Abschlussarbeiten hat sich dabei eine vierstufige Ordnung bewährt:
 
 1. Set "Vertiefung XY"
 2. darin ein Set "Abschlussarbeiten (Vertiefung XY)"
@@ -37,7 +39,7 @@ Die Unterscheidung zwischen der ersten und zweiten Ebene ist sinnvoll, wenn Sie 
 
 Passen Sie schliesslich noch die Adresse (URL) des obersten Sets an, um diese besser kommunizieren zu können.
 
-[Weitere Informationen zum Verwalten von Adressen](/software/05-organize#adressen-verwalten)
+[Weitere Informationen zum Verwalten von Adressen](/madek/organize.html#adressen-verwalten)
 
 ### Fertigen Sie einen Leitfaden für Ihr Vertiefungsarchiv an
 
@@ -49,19 +51,19 @@ Ein sehr gelungenes Beispiel für einen Leitfaden aus dem Bereich Industrial Des
 
 Metadaten helfen zum einen, die Abschlussarbeit bzw. ihre Dokumentation in den korrekten Kontext zu stellen. Zum anderen sind Metadaten notwendig, um die Inhalte auch wieder zu finden. Zu den relevantesten Angaben gehören Autorschaft (die Absolventen) und Rechteinhaber (meistens Zürcher Hochschule der Künste).
 
-[Leitlinien für Metadaten von Abschlussarbeiten](02-complementaryworks#metadaten)
+[Leitlinien für Metadaten von Abschlussarbeiten](/madek/complementaryworks.html#metadaten)
 
 ### Machen Sie Abschlussarbeiten sichtbar
 
-Es sollten zumindest ausgewählte, repräsentative Bestandteile der Abschlussarbeit öffentlich sichtbar gemacht werden. Vorarbeiten, Konzepte, Theoriebestandteile können zugleich nur für die interne Nutzung freigeschaltet werden. Die Sichtbarkeit steuern Sie über [Zugriffsberechtigungen](/software/04-mediaentries/#zugriffsberechtigungen-bearbeiten). Beachten Sie, dass nicht nur die einzelnen Medieneinträge, sondern auch die übergeordneten Sets entsprechende Zugriffsberechtigungen benötigen. Fügen Sie ausserdem immer die Arbeitsgruppe "Support Medienarchiv der Künste (Madek)" hinzu, damit wir Sie einfacher unterstützen können. Sobald Medieneinträge für die Öffentlichkeit freigeschaltet sind, werden Sie von Suchmaschinen wie Google indexiert.
+Es sollten zumindest ausgewählte, repräsentative Bestandteile der Abschlussarbeit öffentlich sichtbar gemacht werden. Vorarbeiten, Konzepte, Theoriebestandteile können zugleich nur für die interne Nutzung freigeschaltet werden. Die Sichtbarkeit steuern Sie über [Zugriffsberechtigungen](/madek/mediaentries.html#zugriffsberechtigungen-bearbeiten). Beachten Sie, dass nicht nur die einzelnen Medieneinträge, sondern auch die übergeordneten Sets entsprechende Zugriffsberechtigungen benötigen. Fügen Sie ausserdem immer die Arbeitsgruppe "Support Medienarchiv der Künste (Madek)" hinzu, damit wir Sie einfacher unterstützen können. Sobald Medieneinträge für die Öffentlichkeit freigeschaltet sind, werden Sie von Suchmaschinen wie Google indexiert.
 
-[Leitlinien für die Zugriffsberechtigungen von Abschlussarbeiten](02-complementaryworks#zugriffsberechtigungen)
+[Leitlinien für die Zugriffsberechtigungen von Abschlussarbeiten](/madek/complementaryworks.html#zugriffsberechtigungen)
 
 ### Ablieferung ans Archiv ZHdK
 
 Die Ablieferung von digitalen Abschlussarbeiten ans Archiv ZHdK erfolgt im Normalfall über das Medienarchiv. Bitte nehmen Sie mit Rolf Wolfensberger, Leiter Archiv ZHdK, Kontakt auf, wenn dieser Prozess bei Ihnen ansteht bzw. wenn Sie die Medieneinträge im Medienarchiv bereits entsprechend vorbereitet haben.
 
-[Informationen zur Ablieferung ans Archiv](04-archive)
+[Informationen zur Ablieferung ans Archiv](/madek/archive.html)
 
 ### Beispiele für Vertiefungsarchive
 

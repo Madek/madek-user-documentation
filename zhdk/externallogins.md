@@ -22,8 +22,8 @@ Sie sind selbst dafür zuständig, die externe Person im Vorfeld zu informieren 
 
 Es ist wichtig darauf zu achten, dass die Zugriffsberechtigungen der gewünschten Medien für die externen Personen korrekt und rechtzeitig vergeben werden, was sich einfach mittels Arbeitsgruppen realisieren lässt. Legen Sie eine Arbeitsgruppe an und vergeben Sie für die gewünschten Inhalte die passenden Zugriffsberechtigungen an diese Arbeitsgruppe. Sobald das Login erstellt ist, fügen Sie die externe Person zu dieser Arbeitsgruppe hinzu und diese erhält automatisch die korrekten Zugriffe auf die vorgesehenen Inhalte.
 
-[Weitere Informationen zu Arbeitgruppen](/software/05-organize#arbeitsgruppen)  
-[Weitere Informationen zu Zugriffsberechtigungen](/software/04-mediaentries#zugriffsberechtigungen-bearbeiten)
+[Weitere Informationen zu Arbeitgruppen](/madek/organize.html#arbeitsgruppen)  
+[Weitere Informationen zu Zugriffsberechtigungen](/madek/mediaentries.html#zugriffsberechtigungen-bearbeiten)
 
 Für die Erstellung externer Logins wenden Sie sich an [support.medienarchiv@zhdk.ch](mailto:support.medienarchiv@zhdk.ch).
 
