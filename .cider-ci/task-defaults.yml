@@ -1,0 +1,15 @@
+# make sure it runs fast, since it doesnt need much powers
+priority: 42
+task_defaults:
+  priority: 42
+
+  # pick a trusted executor that has access to target server
+  traits: { 'ci-g2016-02': yes }
+
+  environment_variables:
+
+    # hosting config
+    HOST: "zhdk.kiste.li"
+    PORT: "21984"
+    USER: "deploy"
+    SSHKEY: "/home/ci-exec-user/.ssh/zhdk_ci_executor_rsa"

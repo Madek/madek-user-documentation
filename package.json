@@ -1,0 +1,23 @@
+{
+  "name": "madek-user-documentation",
+  "version": "1.0.0",
+  "description":
+    "Diese Dokumentation besteht aus einem allgemeinen Teil zur [Software](/madek/madek.md) und einem spezifischen Teil zum [Medienarchiv der Künste](/zhdk/specializationarchives.md), der Madek-Instanz der ZHdK.",
+  "main": "index.js",
+  "scripts": {
+    "gitbook": "gitbook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madek/madek-user-documentation.git"
+  },
+  "author": "Madek Project",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Madek/madek-user-documentation/issues"
+  },
+  "homepage": "https://github.com/Madek/madek-user-documentation#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

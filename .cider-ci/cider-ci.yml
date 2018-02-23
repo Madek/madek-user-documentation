@@ -1,0 +1,47 @@
+jobs:
+  test-build:
+    name: '✔︎ Test'
+    include: '.cider-ci/task-defaults.yml'
+    run_when:
+      pushed to any branch: { type: branch, include_match: ^.*$ }
+    tasks:
+      test-general-build: |
+        npm ci || npm install
+        .cider-ci/split-and-build.sh
+      test-zhdk-build: |
+        npm ci || npm install
+        npm run gitbook -- build
+
+
+  build-and-deploy:
+    name: '✌︎ Build and Deploy to Server (Madek.ch)'
+    include: '.cider-ci/task-defaults.yml'
+    depends_on: &TEST_OK
+      test build was successful: { type: job, job_key: test-build, states: [passed] }
+    run_when: &MASTER_PUSH
+      pushed to master branch: { type: branch, include_match: ^master$ }
+      test build was successful: { type: job, job_key: test-build, states: [passed] }
+    task_defaults:
+      environment_variables:
+        WEBROOT: "/var/www/html/madek-docs/"
+    task: |
+      #!/bin/bash -exu
+      npm ci || npm install
+      .cider-ci/split-and-build.sh
+      rsync -rvPh -e "ssh -l "$USER" -p $PORT -i \"$SSHKEY\"" \
+        "./_book_madek/" "$HOST:$WEBROOT"
+
+  build-and-deploy-zhdk:
+    name: '✌︎ Build and Deploy to Server (Medienarchiv ZHdK)'
+    include: '.cider-ci/task-defaults.yml'
+    depends_on: *TEST_OK
+    run_when: *MASTER_PUSH
+    task_defaults:
+      environment_variables:
+        WEBROOT: "/var/www/html/madek-docs-zhdk/"
+    task: |
+      #!/bin/bash -exu
+      npm ci || npm install
+      npm run gitbook -- build
+      rsync -rvPh -e "ssh -l "$USER" -p $PORT -i \"$SSHKEY\"" \
+        "./_book/" "$HOST:$WEBROOT"
