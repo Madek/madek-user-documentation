@@ -23,13 +23,19 @@ jobs:
       test build was successful: { type: job, job_key: test-build, states: [passed] }
     task_defaults:
       environment_variables:
+        # hosting config
+        # TEMP: test server
+        HOST: "zhdk.kiste.li"
+        PORT: "21984"
+        USER: "deploy"
         WEBROOT: "/var/www/html/madek-docs/"
     task: |
       #!/bin/bash -exu
       npm ci || npm install
       .cider-ci/split-and-build.sh
-      rsync -rvPh -e "ssh -l "$USER" -p $PORT -i \"$SSHKEY\"" \
-        "./_book_madek/" "$HOST:$WEBROOT"
+      ssh-keygen -R $HOST && ssh-keyscan -H $HOST >> ~/.ssh/known_hosts
+      rsync -rvPh -e "ssh -p $PORT -l \"$USER\" -i \"$SSHKEY\"" \
+        "./_book_madek/" "${HOST}:${WEBROOT}"
 
   build-and-deploy-zhdk:
     name: '✌︎ Build and Deploy to Server (Medienarchiv ZHdK)'
@@ -38,10 +44,14 @@ jobs:
     run_when: *MASTER_PUSH
     task_defaults:
       environment_variables:
-        WEBROOT: "/var/www/html/madek-docs-zhdk/"
+        # hosting config
+        # TEMP: test server
+        HOST: "test-blank.madek.zhdk.ch"
+        WEBROOT: "/madek/user-docs/"
     task: |
       #!/bin/bash -exu
       npm ci || npm install
       npm run gitbook -- build
-      rsync -rvPh -e "ssh -l "$USER" -p $PORT -i \"$SSHKEY\"" \
-        "./_book/" "$HOST:$WEBROOT"
+      ssh-keygen -R $HOST && ssh-keyscan -H $HOST >> ~/.ssh/known_hosts
+      rsync -rvPh -e "ssh -p $PORT -l \"$USER\" -i \"$SSHKEY\"" \
+        "./_book/" "${HOST}:${WEBROOT}"

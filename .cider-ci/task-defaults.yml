@@ -7,9 +7,7 @@ task_defaults:
   traits: { 'ci-g2016-02': yes }
 
   environment_variables:
-
     # hosting config
-    HOST: "zhdk.kiste.li"
-    PORT: "21984"
-    USER: "deploy"
+    PORT: "22"
+    USER: "root"
     SSHKEY: "/home/ci-exec-user/.ssh/zhdk_ci_executor_rsa"
