@@ -4,7 +4,7 @@ task_defaults:
   priority: 42
 
   # pick a trusted executor that has access to target server
-  traits: { 'ci-g2016-02': yes }
+  traits: { 'g2016': yes }
 
   environment_variables:
     # hosting config
