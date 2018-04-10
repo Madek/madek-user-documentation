@@ -1,3 +1,4 @@
 ## Madek-API
 
-(see <https://medienarchiv.zhdk.ch/api/docs/>)
+siehe: [https://medienarchiv.zhdk.ch/api/docs/](https://medienarchiv.zhdk.ch/api/docs/)
+
