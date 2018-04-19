@@ -18,7 +18,7 @@ Die zentrale Seite für angemeldete Nutzer/innen ist _Mein Archiv_. Hier erhält
 
 ### Nutzer/innen-Menü {#nutzerinnen-menu}
 
-[![Nutzer/innen-Menü](/assets/interfaces-user-menu.jpg "Nutzer/innen-Menü")](/assets/interfaces-user-menu.png)
+[![](/assets/interfaces-user-menu_20180419_3.21.1_Aloise.png "Nutzer/innen-Menü")](/assets/interfaces-user-menu.png)
 
 Das Nutzer/innen-Menü oben links ermöglicht einen schnellen Zugriff auf die meisten Unterseiten von _Mein Archiv_ von jeder Seite aus. Dazu kommen der Menüpunkt _Medien importieren_ und die Möglichkeit zum _Abmelden_.
 
