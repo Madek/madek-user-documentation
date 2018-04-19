@@ -7,11 +7,11 @@ Die zentrale Seite für angemeldete Nutzer/innen ist _Mein Archiv_. Hier erhält
 [![](/assets/interfaces-my_20180419_3.21.1_Aloise.png "Mein Archiv")](/assets/interfaces-my.png)
 
 * _Aktivitäten_ zeigt die letzten Arbeitschritte und bietet durch die Verlinkung auch einen direkten Zugriff auf die jeweiligen Inhalte.
-* _Meine Entwürfe_ sind Medieneinträge, die noch nicht über Angaben in allen Pflichtfelder verfügen. Ihre Nutzung ist daher auf den/die jeweilige/n Nutzer/innen beschränkt.
+* Unvollständige Medieneinträge sind Medieneinträge, die noch nicht über Angaben in allen Pflichtfelder verfügen. Ihre Nutzung ist daher auf den/die jeweilige/n Nutzer/innen beschränkt.
 * _Meine Medieneinträge_ und _Meine Sets_ enthalten eigene Inhalte sortiert nach der letzten Bearbeitung.
 * _Meine letzten Importe_ enthalten die aktuellsten Medieneinträge, die im Gegensatz zu den Entwürfen aber bereits über alle Pflichtangaben verfügen.
 * _Meine Favoriten \(Medieneinträge/Sets\)_ sind Inhalte, welche zuvor über das an verschiedenen Stellen auftretende Stern-Symbol markiert wurden. Diese Funktion eignet sich \(ähnlich wie die Lesezeichen bei Webbrowsern\) für den schnellen Zugriff auf regelmässig benötigte Inhalte.
-* _Meine Schlagworte_ gibt einen Überblick über selbst vergebene Schlagworte -- sortiert nach Häufigkeit.
+* _Meine Schlagworte_ gibt einen Überblick über selbst vergebene Schlagworte - sortiert nach Häufigkeit.
 * _Mir anvertraute Medieneinträge/Sets_ sind Inhalte, zu denen mir andere Nutzer/innen Zugriffsberechtigungen gegeben haben.
 * _Meine Arbeitsgruppen_ zeigt Gruppen von Nutzerinnen und Nutzern, in denen man Mitglied ist.
 * _Vokabulare_ gibt einen Überblick über alle zur Verfügung stehenden Metadatenfelder.
