@@ -59,7 +59,7 @@ Die Anordnung der Eingabefelder ist für den Editiermodus optimiert und in versc
 
 ### Zugriffsberechtigungen bearbeiten {#zugriffsberechtigungen-bearbeiten}
 
-Sobald es sich bei einem Medieneintrag nicht mehr um einen Entwurf handelt, können Zugriffsberechtigungen für ihn vergeben werden. Zugriffsberechtigungen regeln, wer Inhalte sehen, bearbeiten und herunterladen darf. Sie können für einzelne Personen, Gruppen, sogenannte API-Applikationen und die Öffentlichkeit festgelegt werden. Wie öffentlich Medieneinträge und Sets sind, erkennt man auf Übersichtsseiten schnell an den entsprechenden Symbolen oben links: die Einzelperson steht für private Inhalte, mehrere Personen zeigen an, dass andere Nutzer/innen etwas zumindest sehen können und die Weltkugel markiert Inhalte, die öffentlich im Internet sichtbar sind.
+Sobald es sich bei einem Medieneintrag nicht mehr um einen unvollständigen Medieneintrag handelt, können Zugriffsberechtigungen für ihn vergeben werden. Zugriffsberechtigungen regeln, wer Inhalte sehen, bearbeiten und herunterladen darf. Sie können für einzelne Personen, Gruppen, sogenannte API-Applikationen und die Öffentlichkeit festgelegt werden. Wie öffentlich Medieneinträge und Sets sind, erkennt man auf Übersichtsseiten schnell an den entsprechenden Symbolen oben links: die Einzelperson steht für private Inhalte, mehrere Personen zeigen an, dass andere Nutzer/innen etwas zumindest sehen können und die Weltkugel markiert Inhalte, die öffentlich im Internet sichtbar sind.
 
 [![Private, geteilte und öffentliche Medieneinträge](/assets/mediaentries-icons.jpg "Private, geteilte und öffentliche Medieneinträge")](/assets/mediaentries-icons.png)
 
