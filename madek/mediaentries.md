@@ -69,5 +69,5 @@ Detaillierte Informationen finden Sie in der Einzelansicht unter dem Reiter _Ber
 
 ### Exportieren {#exportieren}
 
-Um einen Medieneintrag zu Exportieren, benutzen Sie in der Einzelansicht die entsprechende Schaltfläche in der Aktionsmenü oben rechts. Abhängig vom Medientyp stehen dann mehre Formate für zum Download zur Verfügung.
+Um einen Medieneintrag zu Exportieren, benutzen Sie in der Einzelansicht die entsprechende Schaltfläche in der Aktionsmenü oben rechts. Abhängig vom Medientyp stehen dann mehrere Formate für zum Download zur Verfügung.
 
