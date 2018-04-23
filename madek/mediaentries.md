@@ -47,9 +47,9 @@ Um Medien in Madek importieren zu können, muss man als Nutzer/in angemeldet sei
 
 [![](/assets/mediaentries-import_20180423_3.21.1_Aloise.png "Medien importieren")](/assets/mediaentries-import.png)
 
-Auf der Import-Seite können Dateien wahlweise über die Schaltfläche _Medien auswählen_ und den anschliessenden Auswahldialog des Browsers oder mittels über Drag & Drop in die hellgraue Fläche importiert werden. Die Anzahl der Dateien ist dabei nicht beschränkt und sie können auch in mehreren Schritten in das Browser-Fenster gezogen werden. Unter jeder Datei wird der Ladefortschritt angezeigt. Der einzelne Ladevorgang ist beendet, wenn stattdessen der Dateiname erscheint und bei Bilddateien das Bild selbst angezeigt wird. Der Gesamtvorgang ist abgeschlossen, wenn die Schaltfläche _Gehe zu Entwürfen_ aktiv bzw. grün wird. Über diese Schaltfläche gelangen Sie zur Seite _Meine Entwürfe_.
+Auf der Import-Seite können Dateien wahlweise über die Schaltfläche _Medien auswählen_ und den anschliessenden Auswahldialog des Browsers oder mittels über Drag & Drop in die hellgraue Fläche importiert werden. Die Anzahl der Dateien ist dabei nicht beschränkt und sie können auch in mehreren Schritten in das Browser-Fenster gezogen werden. Unter jeder Datei wird der Ladefortschritt angezeigt. Der einzelne Ladevorgang ist beendet, wenn der Import-Status nicht mehr angezeigt wird. Der Gesamtvorgang ist abgeschlossen, wenn die Schaltfläche _Medieneinträge vervollständigen_ aktiv bzw. grün wird. Über diese Schaltfläche gelangen Sie zur Seite _Unvollständige Medieneinträge_.
 
-Entwürfe sind Medieneinträge, bei denen noch nicht alle Pflichtfelder ausgefüllt sind und die daher der Beschränkung unterliegen, dass sie noch nicht mit anderen Nutzer/innen geteilt werden können. Zu erkennen sind sie an ihrem Wolken-Symbol oben links.
+Unvollständige Medieneinträge sind Medieneinträge, bei denen noch nicht alle Pflichtfelder ausgefüllt sind und die daher der Beschränkung unterliegen, dass sie noch nicht mit anderen Nutzer/innen geteilt werden können. 
 
 ### Metadaten editieren {#metadaten-editieren}
 
