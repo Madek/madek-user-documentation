@@ -26,7 +26,7 @@ Das Nutzer/innen-Menü oben links ermöglicht einen schnellen Zugriff auf die me
 
 Bei der Ansicht einzelner Medieneinträge und Sets steht oben rechts unterhalb des Nutzer/innen-Menü das Aktionsmenü mit mehreren Schaltflächen zur Verfügung. Die Zusammensetzung des Aktionsmenüs variert abhängig davon, welche Inhalte man betrachtet und welche Zugriffsberechtigungen man für diese hat.
 
-[![Aktionsmenü](/assets/interfaces-actionsmenu.jpg "Aktionsmenü")](/assets/interfaces-actionsmenu.png)
+[![](/assets/interfaces-actionsmenu_20180423_3.21.1_Aloise.png "Aktionsmenü")](/assets/interfaces-actionsmenu.png)
 
 Insgesamt gibt es folgende Funktionen: _Editieren_, _Löschen_, _zu Favoriten hinzufügen_ bzw. davon _entfernen_, _zu Sets hinzufügen_ bzw. aus ihnen _entfernen_ und _Exportieren_. Sets verfügen ausserdem über die Funktionen _Titelbild festlegen_ und _Inhalte hervorheben_.
 
