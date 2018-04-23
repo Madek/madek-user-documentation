@@ -49,13 +49,13 @@ Um Medien in Madek importieren zu können, muss man als Nutzer/in angemeldet sei
 
 Auf der Import-Seite können Dateien wahlweise über die Schaltfläche _Medien auswählen_ und den anschliessenden Auswahldialog des Browsers oder mittels über Drag & Drop in die hellgraue Fläche importiert werden. Die Anzahl der Dateien ist dabei nicht beschränkt und sie können auch in mehreren Schritten in das Browser-Fenster gezogen werden. Unter jeder Datei wird der Ladefortschritt angezeigt. Der einzelne Ladevorgang ist beendet, wenn der Import-Status nicht mehr angezeigt wird. Der Gesamtvorgang ist abgeschlossen, wenn die Schaltfläche _Medieneinträge vervollständigen_ aktiv bzw. grün wird. Über diese Schaltfläche gelangen Sie zur Seite _Unvollständige Medieneinträge_.
 
-Unvollständige Medieneinträge sind Medieneinträge, bei denen noch nicht alle Pflichtfelder ausgefüllt sind und die daher der Beschränkung unterliegen, dass sie noch nicht mit anderen Nutzer/innen geteilt werden können. 
+Unvollständige Medieneinträge sind Medieneinträge, bei denen noch nicht alle Pflichtfelder ausgefüllt sind und die daher der Beschränkung unterliegen, dass sie noch nicht mit anderen Nutzer/innen geteilt werden können.
 
 ### Metadaten editieren {#metadaten-editieren}
 
 Um die Metadaten eines Medieneintrags zu bearbeiten, wechselt man in den Editiermodus. Dies geschieht bei der Einzelansicht über die Stift-Schaltfläche im Aktionsmenü oben rechts oder auf Übersichtsseiten in den Rollover-Optionen über das gleiche Symbol.
 
-Die Anordnung der Eingabefelder ist für den Editiermodus optimiert und in verschiedenen Reitern organisiert. Ausgewählte Felder können dabei in mehreren Kontexten erscheinen, soweit dies inhaltlich sinnvoll ist. Einzelne Eingabefelder verfügen zudem über eine Vorschlagsfunktion \(Auto-Complete\). Zwischen den Reitern können Sie frei wechseln und erst am Ende den Vorgang über die beiden Schaltfläche unten wahlweise bestätigen oder abbrechen. Sollte es sich bei dem bearbeiteten Medieneintrag um einen Entwurf handeln, erhalten Sie anschliessend ausserdem eine Rückmeldung, ob dieser aufgrund der Änderungen zu einem regulären Medieneintrag wurde. Das Bearbeiten der Metadaten von Sets funktioniert analog, auch wenn sich die verfügbaren Felder unterscheiden können.
+Die Anordnung der Eingabefelder ist für den Editiermodus optimiert und in verschiedenen Reitern organisiert. Ausgewählte Felder können dabei in mehreren Kontexten erscheinen, soweit dies inhaltlich sinnvoll ist. Einzelne Eingabefelder verfügen zudem über eine Vorschlagsfunktion \(Auto-Complete\). Zwischen den Reitern können Sie frei wechseln und erst am Ende den Vorgang über die beiden Schaltflächen unten wahlweise bestätigen oder abbrechen. Sollte es sich bei dem bearbeiteten Medieneintrag um einen unvollständigen Medieneintrag handeln, erhalten Sie anschliessend ausserdem eine Rückmeldung, ob dieser aufgrund der Änderungen zu einem regulären Medieneintrag wurde. Das Bearbeiten der Metadaten von Sets funktioniert analog, auch wenn sich die verfügbaren Felder unterscheiden können.
 
 ### Zugriffsberechtigungen bearbeiten {#zugriffsberechtigungen-bearbeiten}
 
