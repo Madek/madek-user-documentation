@@ -65,7 +65,7 @@ Sobald es sich bei einem Medieneintrag nicht mehr um einen unvollständigen Medi
 
 Detaillierte Informationen finden Sie in der Einzelansicht unter dem Reiter _Berechtigungen_, wo diese auch bearbeitet werden können. Unterschieden wird dabei neben den Ebenen Personen, Gruppen, API-Applikationen und Öffentlichkeit auch zwischen den Berechtigungen zum "Betrachten", "Original exportieren & in PDF blättern", "Metadaten editieren" sowie "Zugriffsberechtigungen ändern", wobei nicht alle Berechtigungen auf allen Ebenen verfügbar sind. Unabhängig davon gibt es immer eine Person, die die Verantwortlichkeit für einen Medieneintrag hat und diesen damit auch löschen kann. Die Verantwortlichkeit kann hier ebenfalls übertragen werden.
 
-[![Zugriffsberechtigungen bearbeiten](/assets/mediaentries-permissions.jpg "Zugriffsberechtigungen bearbeiten")](/assets/mediaentries-permissions.png)
+[![](/assets/mediaentries-permissions_20180423_3.21.1_Aloise.png "Zugriffsberechtigungen bearbeiten")](/assets/mediaentries-permissions.png)
 
 ### Exportieren {#exportieren}
 
