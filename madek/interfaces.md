@@ -28,7 +28,7 @@ Bei der Ansicht einzelner Medieneinträge und Sets steht oben rechts unterhalb d
 
 [![](/assets/interfaces-actionsmenu_20180423_3.21.1_Aloise.png "Aktionsmenü")](/assets/interfaces-actionsmenu.png)
 
-Insgesamt gibt es folgende Funktionen: _Editieren_, _zu Favoriten hinzufügen_ bzw. davon _entfernen_, _zu Sets hinzufügen_ bzw. aus ihnen _entfernen,_ teilen, nach ähnl. Inhalten stöbern, sprechende Adressen verwalten,_ Exportieren _und _Löschen_. Sets verfügen ausserdem über die Funktionen _Titelbild festlegen_ und _Inhalte hervorheben_.
+Insgesamt gibt es folgende Funktionen: _Editieren_, _zu Favoriten hinzufügen_ bzw. davon _entfernen_, _zu Sets hinzufügen_ bzw. aus ihnen _entfernen,_ teilen, nach ähnl. Inhalten stöbern, sprechende Adressen verwalten,_ Exportieren und Löschen_. Sets verfügen ausserdem über die Funktionen _Titelbild festlegen_ und _Inhalte hervorheben_.
 
 ### Aktionsleiste {#aktionsleiste}
 
