@@ -1,3 +1,5 @@
+## 
+
 ## Benutzeroberfläche
 
 ### Mein Archiv
@@ -32,7 +34,7 @@ Insgesamt gibt es folgende Funktionen: _Editieren_, _zu Favoriten hinzufügen_ b
 
 ### Aktionsleiste {#aktionsleiste}
 
-[![Aktionsleiste](/assets/interfaces-actionsbar.jpg "Aktionsleiste")](/assets/interfaces-actionsbar.png)
+[![](/assets/interfaces-actionsbar_20180423_3.21.1_Aloise.png "Aktionsleiste")](/assets/interfaces-actionsbar.png)
 
 Die Aktionsleiste bietet auf verschiedenen Übersichtsseiten die Möglichkeit, die Darstellung der Inhalte anzupassen und ausgewählte Inhalte mittels Stapelverarbeitung zu bearbeiten.
 
