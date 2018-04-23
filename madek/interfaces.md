@@ -24,7 +24,7 @@ Das Nutzer/innen-Menü oben links ermöglicht einen schnellen Zugriff auf die me
 
 ### Aktionsmenü {#aktionsmenu}
 
-Bei der Ansicht einzelner Medieneinträge und Sets steht oben rechts unterhalt des Nutzer/innen-Menü das Aktionsmenü mit mehreren Schaltflächen zur Verfügung. Die Zusammensetzung des Aktionsmenüs variert abhängig davon, welche Inhalte man betrachtet und welche Zugriffsberechtigungen man für diese hat.
+Bei der Ansicht einzelner Medieneinträge und Sets steht oben rechts unterhalb des Nutzer/innen-Menü das Aktionsmenü mit mehreren Schaltflächen zur Verfügung. Die Zusammensetzung des Aktionsmenüs variert abhängig davon, welche Inhalte man betrachtet und welche Zugriffsberechtigungen man für diese hat.
 
 [![Aktionsmenü](/assets/interfaces-actionsmenu.jpg "Aktionsmenü")](/assets/interfaces-actionsmenu.png)
 
