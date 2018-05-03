@@ -58,4 +58,4 @@ Die Berechtigung, Inhalte zu sehen und auch zu bearbeiten, können Einzelpersone
 
 [![Arbeitsgruppen](/assets/organize-groups.jpg "Arbeitsgruppen")](/assets/organize-groups.png)
 
-Arbeitsgruppen können von allen Nutzer/innen auf der Seite *Meine Arbeitsgruppen* (in *Mein Archiv* bzw. im User-Menü) angelegt werden. Fügen sie andere Nutzer/innen hinzu oder löschen sie diese. Grundsätzlich habe alle Mitglieder einer Arbeitsgruppe die Möglichkeit andere Nutzer/innen hinzuzufügen oder zu entfernen.
+Arbeitsgruppen können von allen Nutzer/innen auf der Seite *Meine Arbeitsgruppen* (in *Mein Archiv* bzw. im User-Menü) angelegt werden. Fügen sie andere Nutzer/innen hinzu oder löschen sie diese. Grundsätzlich haben alle Mitglieder einer Arbeitsgruppe die Möglichkeit andere Nutzer/innen hinzuzufügen oder zu entfernen.
