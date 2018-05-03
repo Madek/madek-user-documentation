@@ -1,4 +1,4 @@
-## Ordnen & Vernetzen
+![](/assets/organize-sets-display_20180503_3.22.0_Taeuber-Arp.jpg)## Ordnen & Vernetzen
 
 Im letzten Kapitel haben wir gesehen, wie einzelne Medieneinträge bearbeitet werden. Hier wird es darum gehen, wie grössere Mengen an Medieneinträge organisiert und Zusammenhänge hergestellt werden können.
 
@@ -40,9 +40,9 @@ Sets verfügen die gleiche Möglichkeit, Zugriffsberechtigungen zu vergeben, und
 
 Wie auf allen Übersichtsseiten gibt es auch bei Sets die Möglichkeit, Inhalte auf unterschiedliche Arten anzuzeigen: als Kacheln, im Raster, als Liste oder als Miniaturen. Bei Sets ist es zusätzlich möglich, Inhalte zu sortieren und die gewählte Ansicht und Sortierung als Standarddarstellung für ein Set festzulegen. Über das Aktionsmenü gibt es die Möglichkeit, das Titelbild eines Sets festzulegen. Bei Sets mit vielen Inhalten kann es sinnvoll sein, einzelne Inhalte hervorzuheben. Dies geschieht ebenfalls über das Aktionsmenü. Hervorgehobene Inhalte werden dann in einem zusätzlichen Bereich zwischen den allgemeinen Angaben zum Set und der Anzeige aller Inhalte angezeigt.
 
-[![Darstellungsoptionen von Sets](/assets/organize-sets-display.jpg "Darstellungsoptionen von Sets")](/assets/organize-sets-display.png)
+[![Darstellungsoptionen von Sets](/assets/organize-sets-display_20180503_3.22.0_Taeuber-Arp.jpg "Darstellungsoptionen von Sets")](/assets/organize-sets-display.png)
 
-[![Darstellungsoptionen von Sets](/assets/organize-sets-highlights.jpg "Darstellungsoptionen von Sets")](/assets/organize-sets-highlights.png)
+[![Darstellungsoptionen von Sets](/assets/organize-sets-highlights_20180503_3.22.0_Taeuber-Arp.jpg "Darstellungsoptionen von Sets")](/assets/organize-sets-highlights.png)
 
 ### Adressen verwalten {#adressen-verwalten}
 
