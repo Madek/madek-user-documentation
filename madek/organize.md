@@ -10,7 +10,7 @@ Auf Übersichtsseiten mit mehreren Medieneinträgen (z.B. *Meine Medieneinträge
 
 Die Auswahl von Inhalten auf Übersichtsseiten kann wahlweise einzeln oder seitenweise erfolgen. Um mehrere sichtbare Medieneinträge oder Sets auszuwählen, gibt es oben rechts die Schaltfläche *Seite auswählen*. Alternativ kann man mit dem Mauszeiger über die Thumbnails einzelner Inhalte fahren und die dann erscheinende Checkbox unten links anwählen. Ausgewählte Inhalte erhalten in beiden Fällen eine hellblaue Markierung.
 
-[![Auswahl von Medieneinträgen](/assets/organize-batch-select.jpg "Auswahl von Medieneinträgen")](/assets/organize-batch-select.png)
+[![Auswahl von Medieneinträgen](/assets/organize-batch-select_20180503_3.22.0_Taeuber-Arp.jpg "Auswahl von Medieneinträgen")](/assets/organize-batch-select.png)
 
 #### Stapelfunktion wählen
 
