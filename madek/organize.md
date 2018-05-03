@@ -18,7 +18,7 @@ Die verschiedenen Möglichkeiten, um ausgewählte Inhalte zu bearbeiten, finden 
 
 <!-- Fragen: Warum heisst es hier Stapelverarbeitung und nicht Zwischenablage? Warum fehlt die Funktion im User-Menü? -->
 
-[![Stapelfunktion wählen](/assets/organize-batch-action.jpg "Stapelfunktion wählen")](/assets/organize-batch-action.png)
+[![Stapelfunktion wählen](/assets/organize-batch-action_20180503_3.22.3_Taeuber-Arp.png "Stapelfunktion wählen")](/assets/organize-batch-action.png)
 
 #### Metadaten bearbeiten
 
