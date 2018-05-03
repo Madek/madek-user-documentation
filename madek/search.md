@@ -1,6 +1,6 @@
 ## Erkunden & Suchen
 
-Madek bietet mehrere Möglichkeiten, um Inhalte zu finden. Die einfachste ist die Volltextsuche, die Sie über den entrsprechenden Reiter oben mittig erreichen. Die Suchergebnisse können in unterschiedlichen Darstellungsformen (Raster, Kacheln, Liste, Miniaturen) angeschaut werden.
+Madek bietet mehrere Möglichkeiten, um Inhalte zu finden. Die einfachste ist die Volltextsuche, die Sie über den entsprechenden Reiter oben mittig erreichen. Die Suchergebnisse können in unterschiedlichen Darstellungsformen \(Raster, Kacheln, Liste, Miniaturen\) angeschaut werden.
 
 [![Filterleiste](/assets/interfaces-filters.jpg "Filterleiste")](/assets/interfaces-filters.png)
 
@@ -10,4 +10,5 @@ Auf der linken Seite finden Sie die Möglichkeit, gefundene Inhalte nach verschi
 
 ### Vokabulare {#vokabulare}
 
-Metadaten sind in Madek in thematischen Vokabularen gruppiert, die bei jeder Instanz anders konfiguriert sein können. Neben Vokabularen, die allen Usern zur Verfügung stehen, kann es auch sogenannte Fachvokabulare geben, die ausschliesslich für einzelne Projekte bzw. Arbeitsgruppen gedacht sind. Um zu sehen, welche Vokabulare Ihnen zur Verfügung stehen, gehen Sie wahlweise unter *Mein Archiv* oder *Erkunden* zu *Vokabulare*.
+Metadaten sind in Madek in thematischen Vokabularen gruppiert, die bei jeder Instanz anders konfiguriert sein können. Neben Vokabularen, die allen Usern zur Verfügung stehen, kann es auch sogenannte Fachvokabulare geben, die ausschliesslich für einzelne Projekte bzw. Arbeitsgruppen gedacht sind. Um zu sehen, welche Vokabulare Ihnen zur Verfügung stehen, gehen Sie wahlweise unter _Mein Archiv_ oder _Erkunden_ zu _Vokabulare_.
+
