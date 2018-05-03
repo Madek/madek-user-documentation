@@ -6,7 +6,7 @@ Die Zugriffsberechtigung für Medieneinträge und Sets werden separat vergeben. 
 
 #### Kann ich die Datei eines Medieneintrages ersetzen?
 
-Die Datei eines Medieneintrages, d.h. ein Bild, Video, Audiotdatei etc. kann im Medienarchiv der Künste nicht direkt mit einer neuen Dateiversion ersetzt werden. Um dennoch einen Medieneintrag zu verbessern, importieren Sie die neue Datei und übertragen Sie Metadaten und Zugriffsberichtungen des alten Medieneintrags bevor Sie diesen löschen.
+Die Datei eines Medieneintrages, d.h. ein Bild, Video, Audiodatei etc. kann im Medienarchiv der Künste nicht direkt mit einer neuen Dateiversion ersetzt werden. Um dennoch einen Medieneintrag zu verbessern, importieren Sie die neue Datei und übertragen Sie Metadaten und Zugriffsberichtungen des alten Medieneintrags bevor Sie diesen löschen.
 
 #### Warum kann ich eine Arbeitsgruppe nicht löschen?
 
@@ -18,3 +18,6 @@ Beim Löschen einer Arbeitsgruppe wird diese aus dem System entfernt. Dabei ist 
 
 * Die Zugriffsberechtigungen, die mit der Arbeitsgruppe verbunden waren, sind aufgehoben. Sie werden nicht auf die ehemaligen Mitglieder dieser Arbeitsgruppe übertragen.
 * Die Inhalte, die mit der Arbeitsgruppe über Zugriffsberechtigungen verknüpft waren, werden nicht gelöscht.
+
+
+
