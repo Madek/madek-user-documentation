@@ -38,7 +38,7 @@ Sets verfügen die gleiche Möglichkeit, Zugriffsberechtigungen zu vergeben, und
 
 ### Darstellungsoptionen von Sets {#darstellungsoptionen-von-sets}
 
-Wie auf allen Übersichtsseiten gibt es auch bei Sets die Möglichkeit, Inhalte auf unterschiedliche Arten anzuzeigen: als Kacheln, im Raster, als Liste oder als Miniaturen. Bei Sets ist es zusätzlich möglich, Inhalte zu sortieren und die gewählte Ansicht und Sortierung als Standardarstellung für ein Set festzulegen. Über das Aktionsmenü gibt es die Möglichkeit, das Titelbild eines Sets festzulegen. Bei Sets mit vielen Inhalten kann es sinnvoll sein, einzelne Inhalte hervorzuheben. Dies beschiet ebenfalls über das Aktionsmenü. Hervorgehobene Inhalte werden dann in einem zusätzlichen Bereich zwischen den allgemeinen Angaben zum Set und der Anzeige aller Inhalte angezeigt.
+Wie auf allen Übersichtsseiten gibt es auch bei Sets die Möglichkeit, Inhalte auf unterschiedliche Arten anzuzeigen: als Kacheln, im Raster, als Liste oder als Miniaturen. Bei Sets ist es zusätzlich möglich, Inhalte zu sortieren und die gewählte Ansicht und Sortierung als Standarddarstellung für ein Set festzulegen. Über das Aktionsmenü gibt es die Möglichkeit, das Titelbild eines Sets festzulegen. Bei Sets mit vielen Inhalten kann es sinnvoll sein, einzelne Inhalte hervorzuheben. Dies geschieht ebenfalls über das Aktionsmenü. Hervorgehobene Inhalte werden dann in einem zusätzlichen Bereich zwischen den allgemeinen Angaben zum Set und der Anzeige aller Inhalte angezeigt.
 
 [![Darstellungsoptionen von Sets](/assets/organize-sets-display.jpg "Darstellungsoptionen von Sets")](/assets/organize-sets-display.png)
 
