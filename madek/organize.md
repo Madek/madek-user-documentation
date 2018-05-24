@@ -1,4 +1,4 @@
-![](/assets/organize-sets-display_20180503_3.22.0_Taeuber-Arp.jpg)## 
+![](/assets/organize-sets-display_20180503_3.22.0_Taeuber-Arp.jpg) 
 
 ## Ordnen & Vernetzen
 
