@@ -6,13 +6,13 @@
 
 ### Adressen verwalten
 
-Jeder Medieneintrag und jedes Set im Medienarchiv hat eine eindeutige Adresse (URL). Diese kann von den Nutzer/innen selbst festgelegt werden. So eignet sich z.B. der Titel eines Projekts als Adresse für ein Set.
+Jeder Medieneintrag und jedes Set im Medienarchiv hat eine eindeutige Adresse \(URL\). Diese kann von den Nutzer/innen selbst festgelegt werden. So eignet sich z.B. der Titel eines Projekts als Adresse für ein Set.
 
 [Weitere Informationen zum Adressen verwalten](/madek/organize.html#adressen-verwalten)
 
 ### Anmelden
 
-Abhängig von der Installation der Software können sich Mitglieder der betreibenden Institution entweder direkt über diese anmelden oder es müssen eigene Madek-Accounts erstellt werden. Letztere ermöglichen auch Externen Zugang zum System. Für die Erstellung von Logins wenden Sie sich bitte an den Support ihrer Installation.
+Abhängig von der Installation der Software können sich Mitglieder der betreibenden Institution entweder direkt über diese anmelden oder es müssen eigene Madek-Accounts erstellt werden. Letztere ermöglichen auch Externen Zugang zum System. Für die Erstellung von Logins wenden Sie sich bitte an den Support ihrer Institution.
 
 ### Aktionsleiste
 
@@ -64,7 +64,7 @@ Sortierung und Ansichtsformen von Inhalten werden durch die Aktionsleiste gesteu
 
 ### Dokumente
 
-In Madek können neben Bildern, Videos und Audiodateien auch Dokumente (PDF etc.) gespeichert und angezeigt werden.
+In Madek können neben Bildern, Videos und Audiodateien auch Dokumente \(PDF etc.\) gespeichert und angezeigt werden.
 
 [Weitere Informationen zu Dokumentformaten](/madek/mediaentries.html#dokumente)
 
@@ -118,7 +118,7 @@ Wenn Sie ein Set löschen, dann bleiben die darin enthaltenen Inhalte weiterhin 
 
 ### Medieneintrag
 
-Einzelne Medien (Bilder, Videos, Audiodateien, Dokumente) werden in Madek als Medieneintrag bezeichnet. Jeder Medieneintrag verfügt über eine Detailseite mit ergänzenden Metadaten und einer Vielzahl von Funktionen zur Bearbeitung, Export, Favorisierung etc.
+Einzelne Medien \(Bilder, Videos, Audiodateien, Dokumente\) werden in Madek als Medieneintrag bezeichnet. Jeder Medieneintrag verfügt über eine Detailseite mit ergänzenden Metadaten und einer Vielzahl von Funktionen zur Bearbeitung, Export, Favorisierung etc.
 
 [Weitere Informationen zum Arbeiten mit Medieneinträgen](/madek/mediaentries.html)
 
@@ -205,3 +205,4 @@ Vokabulare bezeichnen in Madek thematische Gruppen von Metadatenfeldern. Der Adm
 Zugriffsberechtigungen bestimmen, welche Nutzerinnen und Nutzer Inhalte sehen, das Original exportieren, Metadaten bearbeiten oder Zugriffsberechtigungen verwalten dürfen. Zugriffsberechtigungen lassen sich sowohl für Medieneinträge als auch Sets einstellen.
 
 [Weitere Informationen zu Zugriffsberechtigungen](/madek/mediaentries.html#zugriffsberechtigungen-bearbeiten)
+
