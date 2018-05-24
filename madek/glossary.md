@@ -166,7 +166,7 @@ Medieneinträge und Sets können mithilfe von Sets zu beliebigen Zusammenhängen
 
 ### Stapelverarbeitung
 
-Madek erlaubt das gleichzeitige Bearbeiten mehrerer Medieneinträge und Sets. Über die Zwischenablage lassen sich mehrere Inhalte auswählen und gemeinsam bearbeiten.
+Madek erlaubt das gleichzeitige Bearbeiten mehrerer Medieneinträge und Sets. Über die Stapelverarbeitung lassen sich mehrere Inhalte auswählen und gemeinsam bearbeiten.
 
 [Weitere Informationen zur Stapelverarbeitung](/madek/organize.html#stapelverarbeitung)
 
