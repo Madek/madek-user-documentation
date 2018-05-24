@@ -1,4 +1,6 @@
-![](/assets/organize-sets-display_20180503_3.22.0_Taeuber-Arp.jpg)## Ordnen & Vernetzen
+![](/assets/organize-sets-display_20180503_3.22.0_Taeuber-Arp.jpg)## 
+
+## Ordnen & Vernetzen
 
 Im letzten Kapitel haben wir gesehen, wie einzelne Medieneinträge bearbeitet werden. Hier wird es darum gehen, wie grössere Mengen an Medieneinträge organisiert und Zusammenhänge hergestellt werden können.
 
