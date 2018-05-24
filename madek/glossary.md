@@ -150,13 +150,13 @@ PDF-Dokumente können in Madek importiert werden. Diese werden in der Detailansi
 
 Medieneinträge und/oder Sets können mit beliebig vielen Schlagworten versehen werden. Diese helfen einen Medieneintrag/Set mit Hilfe individueller Begriffe genauer zu spezifizieren und dadurch besser auffindbar zu machen.
 
-[Weitere Informationen zu Metadaten](/madel/concepts.html#metadaten)
+[Weitere Informationen zu Metadaten](/madek/concepts.html#metadaten)
 
 ### Set
 
 Ein Set bezeichnet in Madek einen Container für mehrere Medieneinträge und/oder andere Sets. Sets sind neben dem Medieneintrag das wichtigste Element, um in Madek Inhalte zu organisieren und strukturiert abzulegen.
 
-[Weitere Informationen zu Sets](/madelk/concepts.html#sets)
+[Weitere Informationen zu Sets](/madek/concepts.html#sets)
 
 ### Zu Set hinzufügen/entfernen
 
