@@ -21,7 +21,7 @@ Vor der eigentlichen Eingabe von Abschlussarbeiten bzw. dem Import von Medien, g
 
 #### Medien offline vorbereiten
 
-Bei der Aufarbeitung von Medien auf dem eigenen Computer können neben der eigentlichen Bearbeitung von Bildern, Tönen und Videos auch bereits Metadaten vergeben werden. In der professionellen Bildbearbeitung mit Programmen wie Photoshop oder Lightroom ist es üblich, Bilder bereits mit Abgaben zur Autorschaft, Nutzungsrechten usw. zu versehen. Madek versteht den Metadatenstandard IPTC/XMPcore und übernimmt entsprechende Informationen automatisch.
+Bei der Aufarbeitung von Medien auf dem eigenen Computer können neben der eigentlichen Bearbeitung von Bildern, Tönen und Videos auch bereits Metadaten vergeben werden. In der professionellen Bildbearbeitung mit Programmen wie Photoshop oder Lightroom ist es üblich, Bilder bereits mit Angaben zur Autorschaft, Nutzungsrechten usw. zu versehen. Madek versteht den Metadatenstandard IPTC/XMPcore und übernimmt entsprechende Informationen automatisch.
 
 #### Wahl der richtigen Dateiformate
 
