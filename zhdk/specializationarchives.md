@@ -63,7 +63,7 @@ Es sollten zumindest ausgewählte, repräsentative Bestandteile der Abschlussarb
 
 Die Ablieferung von digitalen Abschlussarbeiten ans Archiv ZHdK erfolgt im Normalfall über das Medienarchiv. Bitte nehmen Sie mit Rolf Wolfensberger, Leiter Archiv ZHdK, Kontakt auf, wenn dieser Prozess bei Ihnen ansteht bzw. wenn Sie die Medieneinträge im Medienarchiv bereits entsprechend vorbereitet haben.
 
-[Informationen zur Ablieferung ans Archiv](/madek/archive.html)
+[Informationen zur Ablieferung ans Archiv](https://medienarchiv.zhdk.ch/hilfe/zhdk/archive.html)
 
 ### Beispiele für Vertiefungsarchive
 
