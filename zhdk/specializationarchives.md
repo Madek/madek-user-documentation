@@ -57,7 +57,7 @@ Metadaten helfen zum einen, die Abschlussarbeit bzw. ihre Dokumentation in den k
 
 Es sollten zumindest ausgewählte, repräsentative Bestandteile der Abschlussarbeit öffentlich sichtbar gemacht werden. Vorarbeiten, Konzepte, Theoriebestandteile können zugleich nur für die interne Nutzung freigeschaltet werden. Die Sichtbarkeit steuern Sie über [Zugriffsberechtigungen](/madek/mediaentries.html#zugriffsberechtigungen-bearbeiten). Beachten Sie, dass nicht nur die einzelnen Medieneinträge, sondern auch die übergeordneten Sets entsprechende Zugriffsberechtigungen benötigen. Fügen Sie ausserdem immer die Arbeitsgruppe "Support Medienarchiv der Künste \(Madek\)" hinzu, damit wir Sie einfacher unterstützen können. Sobald Medieneinträge für die Öffentlichkeit freigeschaltet sind, werden Sie von Suchmaschinen wie Google indexiert.
 
-[Leitlinien für die Zugriffsberechtigungen von Abschlussarbeiten](/madek/complementaryworks.html#zugriffsberechtigungen)
+[Leitlinien für die Zugriffsberechtigungen von Abschlussarbeiten](https://medienarchiv.zhdk.ch/hilfe/zhdk/complementaryworks.html#zugriffsberechtigungen)
 
 ### Ablieferung ans Archiv ZHdK
 
