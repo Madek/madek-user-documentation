@@ -51,7 +51,7 @@ Ein sehr gelungenes Beispiel für einen Leitfaden aus dem Bereich Industrial Des
 
 Metadaten helfen zum einen, die Abschlussarbeit bzw. ihre Dokumentation in den korrekten Kontext zu stellen. Zum anderen sind Metadaten notwendig, um die Inhalte auch wieder zu finden. Zu den relevantesten Angaben gehören Autorschaft \(die Absolventen\) und Rechteinhaber \(meistens Zürcher Hochschule der Künste\).
 
-[Leitlinien für Metadaten von Abschlussarbeiten](/madek/complementaryworks.html)
+[Leitlinien für Metadaten von Abschlussarbeiten](https://medienarchiv.zhdk.ch/hilfe/zhdk/complementaryworks.html#metadaten)
 
 ### Machen Sie Abschlussarbeiten sichtbar
 
