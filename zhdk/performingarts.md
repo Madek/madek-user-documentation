@@ -40,7 +40,7 @@ Die Produktionsumstände und Autor/innen von Dokumentationen sollten offengelegt
 
 Eine konzise inhaltliche Erschliessung erleichtert den Umgang mit Dokumenten in Datenbanken. So wurden für die Medieneinträge des Forschungsprojekts sowohl verschiedene Performance-Genres als auch unterschiedliche Artefakt-Typen für die Beschlagwortung entwickelt. Diese Kategorien beziehen sich explizit auf Performancekunst, andere künstlerische Formen verlangen jeweils nach unterschiedlichen spezifischen Vokabularien.
 
-[![Inhaltliche Erschliessung in Datenbanken](/assets/performingarts4.jpg "Inhaltliche Erschliessung in Datenbanken")](/assets/performingarts4.png)
+[![](/assets/performingarts4_20180530_3.22.0_Taeuber-Arp.png)](/assets/performingarts4.png)
 
 Für eine vertiefte Beschäftigung mit diesen Fragen verweisen wir auf die Empfehlungen des Forschungsteams _archiv performativ_:
 
