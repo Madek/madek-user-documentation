@@ -44,6 +44,8 @@ Existiert das Studienprojekt bereits im Medienarchiv? Dann gehen Sie wie folgt v
 
 [![Zugriffsberechtigungen für Sets](/assets/projectswebsite-setpermissions.jpg "Zugriffsberechtigungen für Sets")](/assets/projectswebsite-setpermissions.png)
 
+
+
 [![Zugriffsberechtigungen für Medieneinträge](/assets/projectswebsite-mediapermissions.jpg "Zugriffsberechtigungen für Medieneinträge")](/assets/projectswebsite-mediapermissions.png)
 
 #### Kontakt
