@@ -32,7 +32,7 @@ Existiert das Studienprojekt bereits im Medienarchiv? Dann gehen Sie wie folgt v
 2. Editieren Sie die Metadaten des Sets: Füllen Sie das Tab _Projektschaufenster_ mit den vorbereiteten Angaben aus. Diese Angaben werden auf der ZHdK-Webseite angezeigt.
 3. Importieren Sie alle Medien, die zum Projekt gehören. Diese erscheinen dann im Abschnitt _Unvollständige Medieneinträge_.  
    [Weitere Informationen zum Medienimport](/madek/mediaentries.html#medien-importieren)
-4. Füllen Sie für jeden dieser Entwürfe mindestens die Felder _Titel_, _Autor/in_ und _Rechteinhaber/in_ aus, da diese auf der ZHdK-Webseite angezeigt werden. Über die Stappelverarbeitung können Sie mehrere oder alle Medieneinträge in einem Arbeitsschritt editieren. Sobald die Pflichtfelder ausgefüllt sind, können die importierten Medien weiter verarbeitet werden.  
+4. Füllen Sie für jeden dieser Entwürfe mindestens die Felder _Titel_, _Autor/in_ und _Rechteinhaber/in_ aus, da diese auf der ZHdK-Webseite angezeigt werden. Über die Stapelverarbeitung können Sie mehrere oder alle Medieneinträge in einem Arbeitsschritt editieren. Sobald die Pflichtfelder ausgefüllt sind, können die importierten Medien weiter verarbeitet werden.  
    [Weitere Informationen zur Stapelverarbeitung](/madek/organize.html#stapelverarbeitung)
 5. Wählen Sie alle Medieneinträge, die zum Projekt gehören, unter _Meine Medieneinträge_ aus und fügen Sie diese zum vorher angelegten Set hinzu.
 6. Setzen Sie ein Titelbild für das Set. Das Titelbild wird dann auf der ZHdK-Webseite in der Projektvorschau als Teaserbild verwendet. Definieren Sie das Headerbild für die Website, indem Sie einen Inhalt im Set hervorheben. Die entsprechenden Schaltflächen finden Sie oben rechts unter dem Nutzer/innen-Menü.  
