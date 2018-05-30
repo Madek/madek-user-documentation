@@ -11,7 +11,7 @@ Seit dem Relaunch der ZHdK-Website werden die Inhalte des Projektschaufensters d
 
 Existiert das Studienprojekt bereits im Medienarchiv? Dann gehen Sie wie folgt vor.
 
-* Für jedes Projekt muss es ein Set geben. Wenn die zum Projket gehörenden Medieneinträge noch nicht in einem Set abgelegt sind, erstellen Sie ein neues Set und fügen sie die Medieneinträge hinzu.  
+* Für jedes Projekt muss es ein Set geben. Wenn die zum Projekt gehörenden Medieneinträge noch nicht in einem Set abgelegt sind, erstellen Sie ein neues Set und fügen sie die Medieneinträge hinzu.  
   [Weitere Infos zum Arbeiten mit Sets](/madek/organize.html#arbeiten-mit-sets)
 * Überprüfen Sie die für die Website relevanten Angaben im Reiter _Projektschaufenster Website ZHdK_ des Sets, d.h. ob vor allem Titel und Projektbeschreibung auf deutsch und englisch vorliegen und eine Diszplin angegeben wurde.
 * Überprüfen Sie, ob beim allen Medieneinträgen mindestens _Titel_, _Autor/in_ und _Rechteinhaber/in_ korrekt angegeben sind. Das gleichzeitige Editieren mehrerer Medieneinträge geht schnell und einfach mittels [Stapelverarbeitung](/madek/organize.html#stapelverarbeitung).
