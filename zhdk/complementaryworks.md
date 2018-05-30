@@ -35,7 +35,7 @@ Das Importieren von Medien einer Abschlussarbeit entspricht dem allgemeinen [Med
 
 ### Metadaten
 
-Den Vorgaben bezüglich Metadaten für Abschlussarbeiten auf der Ebene von Sets und einzelner Medieneinträge ist möglichst präzise Folge zu leisten. Nachfolgende Metadaten gilt es für alle Medieneintrag anzugeben. Soweit die Angaben identisch sind, kann dies einfach mittels [Stapelverarbeitung](/madek/organize.html#stapelverarbeitung) geschehen.
+Den Vorgaben bezüglich Metadaten für Abschlussarbeiten auf der Ebene von Sets und einzelner Medieneinträge ist möglichst präzise Folge zu leisten. Nachfolgende Metadaten gilt es für alle Medieneinträge anzugeben. Soweit die Angaben identisch sind, kann dies einfach mittels [Stapelverarbeitung](/madek/organize.html#stapelverarbeitung) geschehen.
 
 [Allgemeine Informationen zu Metadaten in Madek](/madek/concepts.html#metadaten)
 
