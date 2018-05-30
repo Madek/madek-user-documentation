@@ -43,7 +43,7 @@ Wählen Sie: Einstellungen -&gt; Allgemein -&gt; Feldname: IPTC core
 Wenn Sie immer wieder die gleichen Metadaten zu vergeben haben, dann eignen sich Metadatenvorlagen. Sie werden nicht in der Menüleiste des Programms erstellt sondern direkt im Katalog selbst: Wählen Sie hierzu das kleine Stift-Icon aus, das auf der linken Seite des Katalogs in der Leiste neben dem Titel des ausgewählten Bildes steht.
 
 **Nicht vergessen: Metadaten in die Datei schreiben**  
-Wählen Sie: Aktion -&gt; Anmerkungen synchronisieren -&gt; Anmerkungen in Originale exportieren. Dabei alle angebotenen Optionen wählen: "Eigene Felder einschliessen", "Katalogsätze einschliessen", "Hierarchische Schlüsselworte einschliessen" und "GPS-Felder einschliessen"
+Wählen Sie: Aktion -&gt; Anmerkungen exportieren. Dabei alle angebotenen Optionen wählen: "Eigene Felder einschliessen", "Katalogsätze einschliessen", "Hierarchische Schlüsselworte einschliessen" und "GPS-Felder einschliessen"
 
 ### Hilfsmittel zum Download aus dem Medienarchiv
 
