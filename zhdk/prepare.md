@@ -1,6 +1,6 @@
 ## Bilder offline vorbereiten
 
-Das Medienarchiv importiert neben technischen EXIF-Daten auch inhaltliche Metadaten, wenn diese vorgängig in Bilder eingeschrieben wurden. So bleiben bereits vergebenen Metadaten nach dem Import ins Medienarchiv erhalten. Dadurch wird die weit verbreitete Arbeitsweise einer individuellen Beschlagwortung von Bildern mit IPTC/XMP-Daten auf dem eigenen Rechner unterstützt. Nach dem Import ins Medienarchiv kann auf dem bereits erreichten Wissensstand weitergearbeitet werden. Auf diese Weise wird die Schwelle zwischen individuellem Arbeiten auf dem eigenen Rechner hin zum gemeinschaftlichen Arbeiten im Medienarchiv so niedrig wie möglich gehalten.
+Das Medienarchiv importiert neben technischen EXIF-Daten auch inhaltliche Metadaten, wenn diese vorgängig in Bilder eingeschrieben wurden. So bleiben bereits vergebene Metadaten nach dem Import ins Medienarchiv erhalten. Dadurch wird die weit verbreitete Arbeitsweise einer individuellen Beschlagwortung von Bildern mit IPTC/XMP-Daten auf dem eigenen Rechner unterstützt. Nach dem Import ins Medienarchiv kann auf dem bereits erreichten Wissensstand weitergearbeitet werden. Auf diese Weise wird die Schwelle zwischen individuellem Arbeiten auf dem eigenen Rechner hin zum gemeinschaftlichen Arbeiten im Medienarchiv so niedrig wie möglich gehalten.
 
 Ein typisches Szenario für diese Arbeitsform ist das gemeinsame Recherchieren von Bildmaterial in einer Arbeitsgruppe. In einem ersten Schritt tragen die einzelnen Mitglieder Materialien auf ihren eigenen Rechnern zusammen. Dort werden diese zum ersten Mal gruppiert, bewertet und mit Metadaten versehen. In einem zweiten Schritt importieren alle Mitglieder ihre Beispiele ins Medienarchiv und tragen gemeinsam zu einer umfangreicheren, wachsenden Sammlung bei, die von allen Beteiligten genutzt wird. Durch den Import der wichtigsten Metadaten kann dabei reibungslos an den Bildern weitergearbeitet werden.
 
@@ -14,7 +14,7 @@ Da der Standard IPTC/XMPcore aus dem Kontext der Pressefotografie kommt, werden 
 
 * _Datierung_: Eine Angabe zum Zeitpunkt, an dem das abgebildete Werk entstanden ist.
 
-* _Erstellungsdatum_: Das Datum, an dem das abbildende Medium \(z.B. die Fotografie oder die Audio-Aufnahme\) entstanden ist. Die Datierung und das Erstelldatum können verschieden sein.
+* _Erstellungsdatum_: Das Datum, an dem das abbildende Medium \(z.B. die Fotografie oder die Audio-Aufnahme\) entstanden ist. Die Datierung und das Erstellungsdatum können verschieden sein.
 
 [![Beispiel](/assets/prepare-example.jpg "Beispiel")](/assets/prepare-example.png)
 
