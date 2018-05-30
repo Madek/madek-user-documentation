@@ -31,7 +31,7 @@ Insbesondere im Hinblick auf eine spätere Langzeitarchivierung durch das Archiv
 
 ### Medien importieren und gruppieren
 
-Das Importieren von Medien einer Abschlussarbeit entspricht dem allgemeinen [Medienimport](/madek/mediaentries.html#medien-importieren). Es ist sinnvoll Medien eines Projektes zusammen zu importieren und im Anschluss in projektspezifisches [Set](/madek/organize.html#arbeiten-mit-sets) zu legen.
+Das Importieren von Medien einer Abschlussarbeit entspricht dem allgemeinen [Medienimport](/madek/mediaentries.html#medien-importieren). Es ist sinnvoll Medien eines Projektes zusammen zu importieren und im Anschluss in ein projektspezifisches [Set](/madek/organize.html#arbeiten-mit-sets) zu legen.
 
 ### Metadaten
 
