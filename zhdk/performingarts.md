@@ -32,7 +32,7 @@ Sind mehrere Personen an der Dokumentation beteiligt, entstehen zwangsweise vers
 
 Die Produktionsumstände und Autor/innen von Dokumentationen sollten offengelegt werden. Dies einerseits, um die Urheberschaft der jeweiligen Quelle zu benennen und damit anzuerkennen. Andererseits bestehen zwischen explizit beauftragten Dokumentationen und zufälligen, seitens des Publikums erzeugten Aufzeichnungen ein Unterschied, den es in der Rezeption und Analyse zu berücksichtigen gilt. Darüber hinaus gilt es zu unterscheiden zwischen bewertetem und unbewertetem Material. So mag eine geschnittene und kommentierte Videodokumentation ihren Schwerpunkt auf bestimmte Aspekte einer Performance legen und andere vernachlässigen. Hingegen können ungeschnittene Aufzeichnungen ein umfassenderes Bild ergeben und sind für die Künstler/innen und insbesondere für Forschungszwecke besser geeignet.
 
-[![Offenlegung der Quellen](/assets/performingarts3.jpg "Offenlegung der Quellen")](/assets/performingarts3.png)
+[![](/assets/performingarts3_20180530_3.22.0_Taeuber-Arp mit Hinweis.jpg)](/assets/performingarts3.png)
 
 [https://medienarchiv.zhdk.ch/entries/7bdbc1f8-8d97-45ec-b5f1-74a7b1100ef4](https://medienarchiv.zhdk.ch/entries/7bdbc1f8-8d97-45ec-b5f1-74a7b1100ef4)
 
