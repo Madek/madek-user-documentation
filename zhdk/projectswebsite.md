@@ -30,7 +30,7 @@ Existiert das Studienprojekt bereits im Medienarchiv? Dann gehen Sie wie folgt v
 
 1. Legen Sie für das Projekt im Medienarchiv ein [Set](/madek/organize.html#arbeiten-mit-sets) an.
 2. Editieren Sie die Metadaten des Sets: Füllen Sie das Tab _Projektschaufenster_ mit den vorbereiteten Angaben aus. Diese Angaben werden auf der ZHdK-Webseite angezeigt.
-3. Importieren Sie alle Medien, die zum Projekt gehören. Diese erscheinen dann im Abschnitt _Meine Entwürfe_.  
+3. Importieren Sie alle Medien, die zum Projekt gehören. Diese erscheinen dann im Abschnitt _Unvollständige Medieneinträge_.  
    [Weitere Informationen zum Medienimport](/madek/mediaentries.html#medien-importieren)
 4. Füllen Sie für jeden dieser Entwürfe mindestens die Felder _Titel_, _Autor/in_ und _Rechteinhaber/in_ aus, da diese auf der ZHdK-Webseite angezeigt werden. Über die Stappelverarbeitung können Sie mehrere oder alle Medieneinträge in einem Arbeitsschritt editieren. Sobald die Pflichtfelder ausgefüllt sind, können die importierten Medien weiter verarbeitet werden.  
    [Weitere Informationen zur Stapelverarbeitung](/madek/organize.html#stapelverarbeitung)
