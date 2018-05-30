@@ -24,7 +24,7 @@ Dokumentationen ermöglichen lediglich eine Annäherung an eine vergangene Auff�
 
 Sind mehrere Personen an der Dokumentation beteiligt, entstehen zwangsweise verschiedene Sichtweisen auf eine Aufführung. Zum einen ergänzen sich diese gegenseitig und tragen zu einer polyphonen Überlieferung bei. Zum anderen bedürfen sie einer Gewichtung aus der Sicht der Künstler/innen oder Nutzer/innen. Je nach Rezeptionskontext und Bewertung können diese Artefakte auch eigenständigen Werkcharakter erlangen.
 
-[![Verschiedene Sichtweisen](/assets/performingarts2.jpg "Verschiedene Sichtweisen")](/assets/performingarts2.png)
+[![](/assets/performingarts2_20180530_3.22.0_Taeuber-Arp mit Hinweis.jpg)](/assets/performingarts2.png)
 
 [https://medienarchiv.zhdk.ch/sets/fbeb387f-3e1d-4114-82dc-fcaa2a421ced](https://medienarchiv.zhdk.ch/sets/fbeb387f-3e1d-4114-82dc-fcaa2a421ced)
 
