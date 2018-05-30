@@ -12,7 +12,7 @@ Unterschiedliche künstlerische Praktiken und Arbeiten erfordern unterschiedlich
 
 Eine Aufführung kann nicht umfänglich durch einzelne Bilder, Videos oder Tonaufnahmen repräsentiert werden. Eine Kombination verschiedener Medien befördert hingegen die Überlieferung. Neben den herkömmlichen Aufzeichnungsmedien wie Videos und Fotos können z.B. Augenzeugenberichte oder Rezensionen, aber auch Dokumente aus der Entwicklungs- und Konzeptionsphase eine weitere Sicht erschliessen.
 
-[![Vielfalt der Medien](/assets/performingarts1.jpg "Vielfalt der Medien")](/assets/performingarts1.png)
+![](/assets/performingarts1_20180530_3.22.0_Taeuber-Arp mit Hinweis.jpg)
 
 [https://medienarchiv.zhdk.ch/sets/8088f581-bf52-42e8-82e4-4bfd317fbeae](https://medienarchiv.zhdk.ch/sets/8088f581-bf52-42e8-82e4-4bfd317fbeae)
 
