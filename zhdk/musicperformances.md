@@ -18,7 +18,7 @@ Die vorbereiteten Dateien auswählen und [importieren](/madek/mediaentries.html#
 
 Metadaten sollten sowohl für das Set als auf die enthaltenen Medieneinträge angegeben werden. Medieneinträge können wahlweise einzeln oder in Gruppen mithilfe der [Stapelverarbeitung](/madek/organize.html#stapelverarbeitung) editiert werden. Folgende Metadaten sind für die Musikarchivierung beispielhaft:
 
-#### Werk
+#### Objekt
 
 * Titel des Stückes
 * eventuell Untertitel \(z.B. Abschnitt oder Unterteilung des Musikstückes\)
