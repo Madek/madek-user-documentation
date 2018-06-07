@@ -2,7 +2,7 @@
 
 Im Medienarchiv können die Aufnahmen von musikalischen Veranstaltungen der ZHdK oder andere Musikdateien archiviert und berechtigten Personen zugänglich gemacht werden. Der Musik können noch Informationsmaterial, Flyer, Bilder beigefügt werden.
 
-[![Archivieren von Musikaufführungen](/assets/musicperformances1.jpg "Archivieren von Musikaufführungen")](/assets/musicperformances1.png)
+![](/assets/musicperformances1_20180607_3.22.0 Taeuber-Arp anonymisiert.jpg)
 
 ### Medienmaterial vorbereiten und importieren
 
@@ -21,31 +21,31 @@ Metadaten sollten sowohl für das Set als auf die enthaltenen Medieneinträge an
 #### Werk
 
 * Titel des Stückes
-* eventuell Untertitel (z.B. Abschnitt oder Unterteilung des Musikstückes)
-* Datierung (des Stückes, Kompositionsjahr)
-* Erstellungsdatum (Datum der Aufführung resp. der Tonaufnahme)
-* Kunstgattung (Musik)
-* Beschreibung (z.B. Flyer-Text)
+* eventuell Untertitel \(z.B. Abschnitt oder Unterteilung des Musikstückes\)
+* Datierung \(des Stückes, Kompositionsjahr\)
+* Erstellungsdatum \(Datum der Aufführung resp. der Tonaufnahme\)
+* Kunstgattung \(Musik\)
+* Beschreibung \(z.B. Flyer-Text\)
 * Dimension/Dauer des Stückes
 * Internet Links
 
 #### Personen
 
 * Autor/in = Komponist
-* Medienersteller/in (derjenige, der das Tondokument erstellt bzw. aufnimmt)
+* Medienersteller/in \(derjenige, der das Tondokument erstellt bzw. aufnimmt\)
 * Beteiligte Personen: Interpreten, Regie, Leiter usw.
-* Partner/Beteiligte Institutionen (nur bei Koproduktionen)
+* Partner/Beteiligte Institutionen \(nur bei Koproduktionen\)
 
 #### Rechte
 
-* Rechteinhaber: im Normalfall "Zürcher Hochschule der Künste" (ausgeschrieben)
+* Rechteinhaber: im Normalfall "Zürcher Hochschule der Künste" \(ausgeschrieben\)
 
 #### ZHdK
 
 * Bereich ZHdK: Studienbereich möglichst genau eingrenzen
 * ZHdK Projekttyp: Aufführung, Abschlussarbeit, etc.
 * Studienabschnitt: z.B. Master
-* Projekttitel: Konzertserie (z.B. Spektrum Konzerte)
+* Projekttitel: Konzertserie \(z.B. Spektrum Konzerte\)
 * Dozierende: Klasse oder Dozierende als Mitwirkende
 
 [![Metadaten](/assets/musicperformances3.jpg "Metadaten")](/assets/musicperformances3.png)
@@ -60,8 +60,7 @@ Im Aktionsmenü oben rechts haben Sie die Möglichkeit, für das Set ein Titelbi
 
 [![Berechtigungen](/assets/musicperformances2.jpg "Berechtigungen")](/assets/musicperformances2.png)
 
-Damit die Musikaufführungen innerhalb der ZHdK zu hören sind, weisen Sie dem Set und den Medieneinträgen die entsprechenden [Zugriffsberechtigungen](/madek/mediaentries.html#zugriffsberechtigungen-bearbeiten) zu. Schalten Sie dabei für die Archivierung die Medieneinträge für das *Archiv ZHdK* und für den *Support Medienarchiv der Künste (Madek)* frei.
+Damit die Musikaufführungen innerhalb der ZHdK zu hören sind, weisen Sie dem Set und den Medieneinträgen die entsprechenden [Zugriffsberechtigungen](/madek/mediaentries.html#zugriffsberechtigungen-bearbeiten) zu. Schalten Sie dabei für die Archivierung die Medieneinträge für das _Archiv ZHdK_ und für den _Support Medienarchiv der Künste \(Madek\)_ frei.
 
 Die Vergabe von Berechtigungen können Sie wie bei der Bearbeitung der Metadaten per Stapelverarbeitung für alle Medieneinträge zusammen erledigen.
-
 
