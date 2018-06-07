@@ -29,3 +29,5 @@
 * [Darstellenden Künste](zhdk/performingarts.md)
 * [Musikaufführungen](zhdk/musicperformances.md)
 * [Nutzungsbedingungen](zhdk/usageterms.md)
+* [Kontakt und Newsletter](zhdk/kontakt.md)
+
