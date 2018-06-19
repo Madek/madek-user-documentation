@@ -2,11 +2,9 @@
 
 **Persönlicher Support & Einführungen in das Medienarchiv der Künste**  
 Lobsang Tashi Sotrug  
-[support.medienarchiv@zhdk.ch](mailto:support.medienarchiv@zhdk.ch)  
+[support.medienarchiv](mailto:support.medienarchiv@zhdk.ch)[\[at\]zhdk.ch](mailto:support.medienarchiv@zhdk.ch)  
 043 446 21 60  
 \(Mo/Mi ganztags + Do vormittags\)
-
-
 
 ## Newsletter
 
