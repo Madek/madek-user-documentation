@@ -44,8 +44,6 @@ Existiert das Studienprojekt bereits im Medienarchiv? Dann gehen Sie wie folgt v
 
 [![Zugriffsberechtigungen für Sets](/assets/projectswebsite-setpermissions.jpg "Zugriffsberechtigungen für Sets")](/assets/projectswebsite-setpermissions.png)
 
-
-
 [![Zugriffsberechtigungen für Medieneinträge](/assets/projectswebsite-mediapermissions.jpg "Zugriffsberechtigungen für Medieneinträge")](/assets/projectswebsite-mediapermissions.png)
 
 #### Kontakt
@@ -53,10 +51,9 @@ Existiert das Studienprojekt bereits im Medienarchiv? Dann gehen Sie wie folgt v
 Wenn Sie Fragen zur Zusammenstellung der Medien resp. zu inhaltlichen/redaktionellen Aspekten haben, wenden Sie sich bitte an die Hochschulkommunikation:
 
 Web Team  
-[website.admin@zhdk.ch](mailto:website.admin@zhdk.ch)
+website.admin\[at\]zhdk.ch
 
 Bei Fragen zur Nutzung des Medienarchivs und für technischen Support wenden Sie sich bitte an:
 
-Lobsang Tashi Sotrug  
-[lobsang.sotrug@zhdk.ch](mailto:lobsang.sotrug@zhdk.ch)
+support.medienarchiv\[at\]zhdk.ch
 
