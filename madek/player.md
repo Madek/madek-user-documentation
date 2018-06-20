@@ -2,33 +2,23 @@
 
 Die URL eines öffentlichen Medieneintrages ermöglicht neu die Einbettung von Bildern, Videos und Audios in Websites, Blogs und Messaging Apps. Zusätzlich werden die Metadaten Titel, Autorschaft und Rechteinhaber mitgeliefert.
 
-
-
-Beispiel: [https://facebook.com](https://blog.zhdk.ch/madektest/link-preview-collection/facebook.com)![](/assets/player_20180607_3.22.0 Taeuber-Arp embed facebook.png)
+Beispiel: [Facebook![](/assets/player_20180607_3.22.0 Taeuber-Arp embed facebook.png)](https://www.facebook.com/)
 
 ![](/assets/player_20180607_3.22.0 Taeuber-Arp embed facebook mobile 400px.png)
 
-
-
-Beispiel: [https://www.messenger.com](https://www.messenger.com)
+Beispiel: [Messenger](https://www.messenger.com/)
 
 ![](/assets/player_20180607_3.22.0 Taeuber-Arp embed messenger mobile 400px.png)
 
-
-
-Beispiel: [https://telegram.org](https://telegram.org)
+Beispiel: [Telegram](https://telegram.org/)
 
 ![](/assets/player_20180607_3.22.0 Taeuber-Arp embed telegram mobile 400px.png)
-
-
 
 Beispiel: [iMessage](https://www.apple.com/iphone/)
 
 ![](/assets/player_20180607_3.22.0 Taeuber-Arp embed imessage mobile 400px.png)
 
-
-
-Beispiel: [https://slack.com](https://slack.com)![](/assets/player_20180607_3.22.0 Taeuber-Arp embed slack.png)
+Beispiel: [Slack](https://slack.com) ![](/assets/player_20180607_3.22.0 Taeuber-Arp embed slack.png)
 
 Beispiel: [Wordpress](https://wordpress.org/)
 
