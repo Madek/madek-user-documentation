@@ -22,7 +22,7 @@ Beispiel: [https://telegram.org](https://telegram.org)
 
 
 
-Beispiel: [iMessage](https://www.apple.com/iphone/) 
+Beispiel: [iMessage](https://www.apple.com/iphone/)
 
 ![](/assets/player_20180607_3.22.0 Taeuber-Arp embed imessage mobile 400px.png)
 
@@ -34,7 +34,7 @@ Beispiel: [Wordpress](https://wordpress.org/)
 
 [https://blog.zhdk.ch/madektest/](https://blog.zhdk.ch/madektest/)
 
-
+### 
 
 ### **URL teilen**
 
@@ -45,8 +45,4 @@ Die URL zum Einbetten finden Sie unter dem „Teilen“-Button im kontextbezogen
 ### **Technische Dokumentation**
 
 Weitere Informationen finden Sie in der technischen Dokumentation: [https://github.com/Madek/madek-documentation/blob/master/source/development/embeds.md](https://github.com/Madek/madek-documentation/blob/master/source/development/embeds.md)
-
-
-
-
 
