@@ -17,6 +17,7 @@
 
 ## Medienarchiv der Künste, ZHdK
 
+* [Madek-Player ZHdK](zhdk/madek-player-zhdk.md)
 * [Vertiefungsarchive](zhdk/specializationarchives.md)
 * [Abschlussarbeiten](zhdk/complementaryworks.md)
 * [Projektschaufenster](zhdk/projectswebsite.md)

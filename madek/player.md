@@ -1,6 +1,6 @@
 ## Madek-Player
 
-Die URL eines öffentlichen Medieneintrages ermöglicht neu die Einbettung von Bildern, Videos und Audios in Websites, Blogs und Messaging Apps. Zusätzlich werden die Metadaten Titel, Autorschaft und Rechteinhaber mitgeliefert.
+Die URL eines öffentlichen Medieneintrages ermöglicht die Einbettung von Bildern, Videos und Audios in Websites, Blogs und Messaging Apps. Zusätzlich werden die Metadaten Titel, Autorschaft und Rechteinhaber mitgeliefert.
 
 Beispiel: [Facebook![](/assets/player_20180607_3.22.0 Taeuber-Arp embed facebook.png)](https://www.facebook.com/)
 
