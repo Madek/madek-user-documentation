@@ -16,6 +16,7 @@ Die zentrale Seite für angemeldete Nutzer/innen ist _Mein Archiv_. Hier erhält
 * _Meine Schlagworte_ gibt einen Überblick über selbst vergebene Schlagworte - sortiert nach Häufigkeit.
 * _Mir anvertraute Medieneinträge/Sets_ sind Inhalte, zu denen mir andere Nutzer/innen Zugriffsberechtigungen gegeben haben.
 * _Meine Arbeitsgruppen_ zeigt Gruppen von Nutzerinnen und Nutzern, in denen man Mitglied ist.
+* Tokens dienen der Authentifizierung von Usern und sind zeitlich begrenzt. Sie werden für die Verwendung der Exporter-App benötigt.
 * _Vokabulare_ gibt einen Überblick über alle zur Verfügung stehenden Metadatenfelder.
 
 ### Nutzer/innen-Menü {#nutzerinnen-menu}
