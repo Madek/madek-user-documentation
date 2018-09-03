@@ -17,16 +17,17 @@
 
 ## Medienarchiv der Künste, ZHdK
 
-* [Madek-Player ZHdK](zhdk/madek-player-zhdk.md)
-* [Vertiefungsarchive](zhdk/specializationarchives.md)
 * [Abschlussarbeiten](zhdk/complementaryworks.md)
-* [Projektschaufenster](zhdk/projectswebsite.md)
 * [Archiv ZHdK](zhdk/archive.md)
 * [Bilder vorbereiten](zhdk/prepare.md)
-* [Thematische Vokabulare](zhdk/vocabulary.md)
+* [Darstellende Künste](zhdk/performingarts.md)
+* [Darstellenden Künste](zhdk/performingarts.md)
+* Forschungsdatenmanagement mit dem Medienarchiv
 * [Logins für Externe](zhdk/externallogins.md)
-* [Hyperaura](zhdk/hyperaura.md)
-* [Persönliches Portfolio](zhdk/personalportfolio.md)
+* [Madek-Player ZHdK](zhdk/madek-player-zhdk.md)
+* [Vertiefungsarchive](zhdk/specializationarchives.md)
+* [Madek-Player ZHdK](zhdk/madek-player-zhdk.md)
+* [Logins für Externe](zhdk/externallogins.md)
 * [Darstellenden Künste](zhdk/performingarts.md)
 * [Musikaufführungen](zhdk/musicperformances.md)
 * [Nutzungsbedingungen](zhdk/usageterms.md)
