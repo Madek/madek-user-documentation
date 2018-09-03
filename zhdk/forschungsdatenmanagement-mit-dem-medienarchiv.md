@@ -12,8 +12,6 @@ Weitere Informationen:
 
 * [Angebote Datenaustausch ITZ](https://intern.zhdk.ch/?datenaustausch) insbesondere [SwitchDrive für ZHdK-Angehörige](https://intern.zhdk.ch/?switchdrive)
 
-
-
 ## Sammeln {#sammeln}
 
 #### Planen {#planen}
@@ -60,9 +58,9 @@ Weitere Informationen: [Verantwortlichkeit übertragen](https://wiki.zhdk.ch/mad
 
 #### Rechte und Lizenzen {#rechte_und_lizenzen}
 
- Damit Ihre Forschungsdaten konsultiert und ggf. weiterverwendet werden können, fügen Sie eindeutige Hinweise zu Rechteinhabern bzw. die richtigen Lizenzen zur Weiterverwendung der Inhalte an die Medieneinträge.
+Damit Ihre Forschungsdaten konsultiert und ggf. weiterverwendet werden können, fügen Sie eindeutige Hinweise zu Rechteinhabern bzw. die richtigen Lizenzen zur Weiterverwendung der Inhalte an die Medieneinträge.
 
- Weiter Informationen: [Rechte](https://wiki.zhdk.ch/madek-hilfe/doku.php?id=rights)
+Weiter Informationen: [Rechte](https://wiki.zhdk.ch/madek-hilfe/doku.php?id=rights)
 
 ## Ein Beispiel {#ein_beispiel}
 
@@ -102,10 +100,4 @@ Diagrammatische Artefakte: [https://medienarchiv.zhdk.ch/sets/socospa\_diagramma
 Ausstellungen im Virtuellen Museum: [https://medienarchiv.zhdk.ch/sets/socospa\_exhibitions](https://medienarchiv.zhdk.ch/sets/socospa_exhibitions)  
 Z+ Showroom Kollaborationen: [https://medienarchiv.zhdk.ch/sets/socospa\_z\_plus\_kollaborationen](https://medienarchiv.zhdk.ch/sets/socospa_z_plus_kollaborationen)  
 Abschlusstagung: [https://medienarchiv.zhdk.ch/sets/socospa\_abschlusstagung](https://medienarchiv.zhdk.ch/sets/socospa_abschlusstagung)
-
-
-
-
-
-
 
