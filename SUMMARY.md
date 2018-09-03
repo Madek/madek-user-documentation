@@ -21,7 +21,7 @@
 * [Archiv ZHdK](zhdk/archive.md)
 * [Bilder vorbereiten](zhdk/prepare.md)
 * [Darstellenden Künste](zhdk/performingarts.md)
-* [Forschungsdatenmanagement mit dem Medienarchiv](zhdk/forschungsdatenmanagement-mit-dem-medienarchiv.md)
+* [Forschungsdatenmanagement](zhdk/forschungsdatenmanagement-mit-dem-medienarchiv.md)
 * [Logins für Externe](zhdk/externallogins.md)
 * [Madek-Player ZHdK](zhdk/madek-player-zhdk.md)
 * [Musikaufführungen](zhdk/musicperformances.md)
