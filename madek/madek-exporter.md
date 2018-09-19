@@ -1,6 +1,6 @@
 ## Madek-Exporter
 
-Mit dem Madek-Exporter können Sie die Inhalte eines Set aus dem Medienarchiv mitsamt Abspielkopien exportieren.  
+Mit dem Madek-Exporter können Sie die Inhalte eines Set aus dem System exportieren. Heruntergeladen werden sowohl die Originalfiles, alle Abspielkopien und Thumbnails sowie die bestehenden Metadaten in einem maschinenlesbaren Format \(JSON\) und als HTML-File. Daher eignet sich dieser Massen-Export besonders, wenn das exportierte Datenpaket anschliessend automatisiert in ein anderes System integriert werden soll oder wenn Sie ihre gesamten Medieninhalte aus dem System exportieren wollen, weil sie z.B. die Institution verlassen.
 
 ### **Download und Installation der Exporter-Software**
 
@@ -8,13 +8,13 @@ Mit dem Madek-Exporter können Sie die Inhalte eines Set aus dem Medienarchiv mi
 
 Für die Installierung der Software ist ggf. die Eingabe eines Administratoren Passwortes erforderlich.![](/assets/Exporter 02.png)
 
-Wählen Sie das entsprechende ZIP File für Ihr Betriebssystem. Öffnen Sie dann den Madek-Exporter. Das Programm erkennen Sie anhand des Icons mit dem Buchstaben M. 
+Wählen Sie das entsprechende ZIP File für Ihr Betriebssystem. Öffnen Sie dann den Madek-Exporter. Das Programm erkennen Sie anhand des Icons mit dem Buchstaben M.
 
-Beim erstmaligen Öffnen werden Sie gefragt, ob Sie es wirklich öffnen wollen. Diese Sicherheitsmeldung wird in einem späteren Software-Release verschwinden. 
+Beim erstmaligen Öffnen werden Sie gefragt, ob Sie es wirklich öffnen wollen. Diese Sicherheitsmeldung wird in einem späteren Software-Release verschwinden.
 
 ### **API-Token generieren**
 
-Für die Verwendung des Madek-Exporters ist ein Sicherheitsschlüssel \(sog. Token\) erforderlich. Der Token dient zur Identifizierung eines Users und verfällt nach einem Jahr. Tokens werden im eingeloggten Zustand innerhalb des Medienarchivs erstellt. Sie finden unter Mein Archiv in der Seitenleiste den Token Bereich. Bei Verfall kann ein Token problemlos neu erstellt werden.
+Für die Verwendung des Madek-Exporters ist ein Sicherheitsschlüssel \(sog. Token\) erforderlich. Der Token dient zur Identifizierung eines Users und verfällt nach einem Jahr. Tokens werden im eingeloggten Zustand innerhalb des Systems erstellt. Sie finden unter Mein Archiv in der Seitenleiste den Token Bereich. Bei Verfall kann ein Token problemlos neu erstellt werden.
 
 ![](/assets/Exporter 03.png)
 
@@ -30,7 +30,7 @@ Nach der erfolgreichen Anmeldung bestätigt die App ihre Madek-Instanz und Email
 
 ![](/assets/Exporter 07.png)
 
-Tragen Sie die URL des Sets und den Speicherort ein. 
+Tragen Sie die URL des Sets und den Speicherort ein.
 
 ![](/assets/Exporter 08.png)
 
@@ -47,10 +47,4 @@ Während des Exports zeigt der grüne Balken den Download Status an.![](/assets/
 Einen weiteren Export starten Sie mit der blauen Schaltfläche.
 
 Für Beenden klicken Sie die orange Schaltfläche.
-
-
-
-
-
-
 
