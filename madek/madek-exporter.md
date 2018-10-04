@@ -2,6 +2,8 @@
 
 Mit dem Madek-Exporter können Sie die Inhalte eines Set aus dem System exportieren. Heruntergeladen werden sowohl die Originalfiles, alle Abspielkopien und Thumbnails sowie die bestehenden Metadaten in einem maschinenlesbaren Format \(JSON\) und als HTML-File. Daher eignet sich dieser Massen-Export besonders, wenn das exportierte Datenpaket anschliessend automatisiert in ein anderes System integriert werden soll oder wenn Sie ihre gesamten Medieninhalte aus dem System exportieren wollen, weil sie z.B. die Institution verlassen.
 
+Aufgrund der langen Pfadlänge für das Zielverzeichnis bei Windows-Computern, kann gegenwärtig der Madek-Exporter nur bei Mac-Computern angewendet werden.
+
 ### **Download und Installation der Exporter-Software**
 
 [https://github.com/Madek/madek-exporter/releases](https://github.com/Madek/madek-exporter/releases)![](/assets/Exporter 01.png)Beachten Sie, dass Sie die neuste Software-Version beziehen. Diese wird mit einem grünen Signet hervorgehoben.
@@ -50,9 +52,9 @@ Für Beenden klicken Sie die orange Schaltfläche.
 
 ![](/assets/Exporter Ablage bearb 1.png)
 
-Auf Ihrer lokalen Festplatte finden Sie nach dem Export den Download-Ordner Madek-Export vor. 
+Auf Ihrer lokalen Festplatte finden Sie nach dem Export den Download-Ordner Madek-Export vor.
 
 Darin befindet sich das heruntergeladene Set, dessen Inhalte sowie die Metadaten
 
-in einem maschinenlesbaren Format \(JSON\) und als HTML-File. 
+in einem maschinenlesbaren Format \(JSON\) und als HTML-File.
 
