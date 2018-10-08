@@ -18,7 +18,7 @@
 
 ## Medienarchiv der Künste, ZHdK
 
-* [Abschlussarbeiten](zhdk/complementaryworks.md)
+* [Abschlussarbeiten](zhdk/student-projects.md)
 * [Archiv ZHdK](zhdk/archive.md)
 * [Bilder vorbereiten](zhdk/prepare.md)
 * [Darstellenden Künste](zhdk/performingarts.md)
