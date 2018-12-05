@@ -1,8 +1,6 @@
 ### Nutzungsbedingungen
 
-#### vom 23. April 2018
-
-
+vom 23. April 2018
 
 ### 1. Gegenstand
 
@@ -87,6 +85,4 @@ Diese Nutzungsbedingungen wurden vom Rektor am 30. August 2016 erlassen und am 2
 Zürcher Hochschule der Künste
 
 Der Rektor
-
-
 
