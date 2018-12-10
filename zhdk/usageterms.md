@@ -1,10 +1,10 @@
-### Nutzungsbedingungen 
+### Nutzungsbedingungen
 
 vom 23. April 2018
 
 ### 1. Gegenstand
 
-Die Nutzungsbedingungen des Medienarchivs der Züricher Hochschule der Künste \(Betreiberin, nachfolgend ZHdK bzw. Medienarchiv\) regeln die Bedingungen der Nutzung für die Beteiligten \(gemäss Ziff.4\).
+Die Nutzungsbedingungen des Medienarchivs der Zürcher Hochschule der Künste \(Betreiberin, nachfolgend ZHdK bzw. Medienarchiv\) regeln die Bedingungen der Nutzung für die Beteiligten \(gemäss Ziff.4\).
 
 ### 2. Zweck
 
