@@ -45,11 +45,23 @@ Alle anderen Dateien werden von Madek pauschal als Dokumente betrachtet. Allerdi
 
 Um Medien in Madek importieren zu können, muss man als Nutzer/in angemeldet sein. Zur Import-Seite gelangt man entweder von _Mein Archiv_ über die Schaltfläche _Medien importieren_ oder von jeder Seite aus über die gleichnamige Option im Nutzer/innen-Menü oben rechts.
 
+Berücksichtigen Sie beim Import folgende Punkte: 
+
+- Schliessen Sie bei einem grösseren Datei-Import den Computer ans Stromnetz
+
+- Verwenden Sie bei grossen Dateien \(ab 500 MB\) eine schnelle Internet-Anbindung 
+
+- Im Ruhezustand des Computers kann ein Datei-Import unterbrochen werden
+
 [![](/assets/mediaentries-import_20180423_3.21.1_Aloise.png "Medien importieren")](/assets/mediaentries-import.png)
 
-Auf der Import-Seite können Dateien wahlweise über die Schaltfläche _Medien auswählen_ und den anschliessenden Auswahldialog des Browsers oder mittels über Drag & Drop in die hellgraue Fläche importiert werden. Die Anzahl der Dateien ist dabei nicht beschränkt und sie können auch in mehreren Schritten in das Browser-Fenster gezogen werden. Unter jeder Datei wird der Ladefortschritt angezeigt. Der einzelne Ladevorgang ist beendet, wenn der Import-Status nicht mehr angezeigt wird. Der Gesamtvorgang ist abgeschlossen, wenn die Schaltfläche _Medieneinträge vervollständigen_ aktiv bzw. grün wird. Über diese Schaltfläche gelangen Sie zur Seite _Unvollständige Medieneinträge_.
+Auf der Import-Seite können Dateien wahlweise über die Schaltfläche _Medien auswählen_ und den anschliessenden Auswahldialog des Browsers oder mittels über Drag & Drop in die hellgraue Fläche importiert werden. Die Anzahl der Dateien ist dabei nicht beschränkt und sie können auch in mehreren Schritten in das Browser-Fenster gezogen werden. Unter jeder Datei wird der Ladefortschritt angezeigt. Der einzelne Ladevorgang ist beendet, wenn der Import-Status nicht mehr angezeigt wird. 
+
+Der Gesamtvorgang ist abgeschlossen, wenn die Schaltfläche _Medieneinträge vervollständigen_ aktiv bzw. grün wird. Über diese Schaltfläche gelangen Sie zur Seite _Unvollständige Medieneinträge_.
 
 Unvollständige Medieneinträge sind Medieneinträge, bei denen noch nicht alle Pflichtfelder ausgefüllt sind und die daher der Beschränkung unterliegen, dass sie noch nicht mit anderen Nutzer/innen geteilt werden können.
+
+
 
 ### Metadaten editieren {#metadaten-editieren}
 
