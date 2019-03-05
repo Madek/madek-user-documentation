@@ -86,3 +86,11 @@ Zürcher Hochschule der Künste
 
 Der Rektor
 
+
+
+\[1\] Vgl. URG, DesG, MSchG, PatG, vgl. die Aufzählung in Art.5
+
+\[2\] Insbesondere §§ 16 und 22 FaHG
+
+\[3\] vgl. [http://creativecommons.org](http://creativecommons.org)
+
